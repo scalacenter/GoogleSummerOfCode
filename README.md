@@ -12,7 +12,7 @@ In this documnent, you can find a list of ideas that are proposed by Scala Cente
 |Prerequisites           | Scala |
 |Ideal Prerequisites     | Good knowledge of Scala and experience with notebooks. |
 |Expected Difficulty     | Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it |
-|Expected Time Commitment| Short project – 180 hours |
+|Expected Time Commitment| Short project – 175 hours |
 |Mentor                  | Tomasz Godzik |
 
 ## Semantic highlighting in VS Code
@@ -25,7 +25,7 @@ In this documnent, you can find a list of ideas that are proposed by Scala Cente
 |Prerequisites           | Scala |
 |Ideal Prerequisites     | Scala and a bit of knledge about LSP |
 |Expected Difficulty     | Easy – straightforward task, path for execution visible right now, very little uncertainty |
-|Expected Time Commitment| Short project – 180 hours |
+|Expected Time Commitment| Short project – 175 hours |
 |Mentor                  | Tomasz Godzik |
 
 ## LSP Call hierarchy in Metals
@@ -38,7 +38,7 @@ In this documnent, you can find a list of ideas that are proposed by Scala Cente
 |Prerequisites           | Scala |
 |Ideal Prerequisites     | Scala and a bit of knowledge about LSP |
 |Expected Difficulty     | Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it |
-|Expected Time Commitment| Short project – 180 hours |
+|Expected Time Commitment| Short project – 175 hours |
 |Mentor                  | Tomasz Godzik |
 
 ## Scala 3 Static Blog Generator
@@ -51,7 +51,7 @@ In this documnent, you can find a list of ideas that are proposed by Scala Cente
 |Prerequisites           | - Some prior Scala programming experience<br />- Proactive attitude to your work and a good taste for a library design: apart from actually doing the porting work, you will be expected to actively evaluate the state of the library, look for opportunities to improve its user-facing ergonomics, documentation etc and implement them<br />- Excellent communication skills: you will be actively discussing both the technical work and the state of the library in process<br />- Drive to design and create state-of-the-art open source software |
 |Ideal Prerequisites     | See Prerequisites |
 |Expected Difficulty     | Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it |
-|Expected Time Commitment| Short project – 180 hours |
+|Expected Time Commitment| Short project – 175 hours |
 |Mentor                  | Anatolii Kmetiuk |
 
 ## Smart “Step Into” When Debugging Scala Programs
@@ -64,7 +64,7 @@ In this documnent, you can find a list of ideas that are proposed by Scala Cente
 |Prerequisites           | Scala knowledge |
 |Ideal Prerequisites     | Experience with implementing a debugger, experience with JVM-bytecode. |
 |Expected Difficulty     | Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it |
-|Expected Time Commitment| Long project – 360 hours |
+|Expected Time Commitment| Long project – 350 hours |
 |Mentor                  | Adrien Piquerez |
 
 ## Resurect Scala Native bindings generator
@@ -77,7 +77,7 @@ In this documnent, you can find a list of ideas that are proposed by Scala Cente
 |Prerequisites           | Basic knowledge of Scala and C |
 |Ideal Prerequisites     | Good knowledge of Scala 3, experience of working with Scala Native |
 |Expected Difficulty     | Easy – straightforward task, path for execution visible right now, very little uncertainty |
-|Expected Time Commitment| Short project – 180 hours |
+|Expected Time Commitment| Short project – 175 hours |
 |Mentor                  | Wojciech Mazur |
 
 ## Optimization of Scala Native linker
@@ -90,7 +90,7 @@ In this documnent, you can find a list of ideas that are proposed by Scala Cente
 |Prerequisites           | Basic Scala 2 / Java, LLVM and C knowledge |
 |Ideal Prerequisites     | Good Scala 2 or Java knowledge with additional experience in the JVM profiling. |
 |Expected Difficulty     | Hard – involves high degree of uncertainty even for a highly experienced person |
-|Expected Time Commitment| Long project – 360 hours |
+|Expected Time Commitment| Long project – 350 hours |
 |Mentor                  | Wojciech Mazur |
 
 ## Generation of debugging symbols in Scala Native and integration with LLDB debugger.
@@ -103,7 +103,7 @@ In this documnent, you can find a list of ideas that are proposed by Scala Cente
 |Prerequisites           | Scala, LLVM  |
 |Ideal Prerequisites     | Scala, LLVM |
 |Expected Difficulty     | Hard – involves high degree of uncertainty even for a highly experienced person |
-|Expected Time Commitment| Long project – 360 hours |
+|Expected Time Commitment| Long project – 350 hours |
 |Mentor                  | Wojciech Mazur |
 
 ## Doodle Explorer
@@ -116,7 +116,7 @@ In this documnent, you can find a list of ideas that are proposed by Scala Cente
 |Prerequisites           | Scala programming knowledge and an interest in generative art. |
 |Ideal Prerequisites     | Ideally some knowledge of DSL implementation technique, particularly tagless final. |
 |Expected Difficulty     | Easy – straightforward task, path for execution visible right now, very little uncertainty |
-|Expected Time Commitment| Short project – 180 hours |
+|Expected Time Commitment| Short project – 175 hours |
 |Mentor                  | Noel Welsh |
 
 ## Doodle Bitmap Support
@@ -129,7 +129,7 @@ In this documnent, you can find a list of ideas that are proposed by Scala Cente
 |Prerequisites           | Basic Scala knowledge |
 |Ideal Prerequisites     | Some knowledge of convolution operations. |
 |Expected Difficulty     | Easy – straightforward task, path for execution visible right now, very little uncertainty |
-|Expected Time Commitment| Short project – 180 hours |
+|Expected Time Commitment| Short project – 175 hours |
 |Mentor                  | Noel Welsh |
 
 ## Scala 3 Dataframe
@@ -142,7 +142,7 @@ In this documnent, you can find a list of ideas that are proposed by Scala Cente
 |Prerequisites           | Good knowledge of Scala programming |
 |Ideal Prerequisites     | Some knowledge of dataframes, and Scala 3's compile-time metaprogramming tools. |
 |Expected Difficulty     | Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it |
-|Expected Time Commitment| Long project – 360 hours |
+|Expected Time Commitment| Long project – 350 hours |
 |Mentor                  | Noel Welsh |
 
 ## Extract npm dependencies from scalajs-bundler
@@ -155,7 +155,7 @@ In this documnent, you can find a list of ideas that are proposed by Scala Cente
 |Prerequisites           | * Knowing your way around an sbt build |
 |Ideal Prerequisites     | * Be familiar with the NPM ecosystem<br />* Have developed an sbt plugin before<br />* Be familiar with Scala.js |
 |Expected Difficulty     | Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it |
-|Expected Time Commitment| Short project – 180 hours |
+|Expected Time Commitment| Short project – 175 hours |
 |Mentor                  | Sébastien Doeraene |
 
 ## Write a compatible ExplicitResultTypes rule for Scala 3
@@ -168,5 +168,5 @@ In this documnent, you can find a list of ideas that are proposed by Scala Cente
 |Prerequisites           | Required: some experience with Scala, eagerness to learn more about Scala 3. <br /> |
 |Ideal Prerequisites     | Preferred: some familiarity with Scalafix and Scalameta. |
 |Expected Difficulty     | Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it |
-|Expected Time Commitment| Short project – 180 hours |
+|Expected Time Commitment| Short project – 175 hours |
 |Mentor                  | Meriam Lachkar |
