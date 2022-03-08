@@ -54,19 +54,6 @@ In this documnent, you can find a list of ideas that are proposed by Scala Cente
 |Expected Time Commitment| Short project – 175 hours |
 |Mentor                  | Anatolii Kmetiuk |
 
-## Smart “Step Into” When Debugging Scala Programs
-
-|Title                   | Smart “Step Into” When Debugging Scala Programs |
-|------------------------|-|
-|Link to Project         | https://github.com/scalacenter/scala-debug-adapter/issues/122 |
-|Brief Description       | Some Scala constructs generate methods in the bytecode that do not contain any part of the source code. For example we have the getter methods, the mixin forwarders, the bridges.<br /><br />When the compiler generates those methods, it fills their source lines tables with the line of the class or field definition. That's because there is nothing else to go since there is no corresponding source code of the method.<br /><br />As a consequence the JVM debugger steps into those generated methods showing the class or field definition, which is confusing and useless.<br /><br />Instead, the user expects those intermediate steps to be skipped. |
-|Expected Outcome        | Adapt the implementation of scala-debug-adapter to handle better synthesized methods. See https://github.com/scalacenter/scala-debug-adapter/issues/122 for a list of specific patterns to handle. |
-|Prerequisites           | Scala knowledge |
-|Ideal Prerequisites     | Experience with implementing a debugger, experience with JVM-bytecode. |
-|Expected Difficulty     | Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it |
-|Expected Time Commitment| Long project – 350 hours |
-|Mentor                  | Adrien Piquerez |
-
 ## Resurect Scala Native bindings generator
 
 |Title                   | Resurect Scala Native bindings generator |
