@@ -1,5 +1,7 @@
 In this documnent, you can find a list of ideas that are proposed by Scala Center for Google Summer of Code 2022.
 
+If you are interested in any idea or would like to propose your own, please reach out to your mentor. You can also reach Scala Center at https://scala.epfl.ch/contact.html.
+
 # Project Ideas
 
 ## Notebook support in Metals
