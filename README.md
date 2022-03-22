@@ -1,6 +1,6 @@
 In this documnent, you can find a list of ideas that are proposed by Scala Center for Google Summer of Code 2022.
 
-If you are interested in any idea or would like to propose your own, please reach out to your potential mentor. You can also reach Scala Center at scala.center (at) epfl.ch.
+If you are interested in any idea or would like to propose your own, please reach out to your potential mentor. You can also reach Scala Center at scala.center(at)epfl.ch.
 
 # Project Ideas
 
