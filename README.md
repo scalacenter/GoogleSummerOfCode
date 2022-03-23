@@ -146,4 +146,4 @@ If you are interested in any idea or would like to propose your own, please reac
 |Expected Difficulty     | Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it |
 |Expected Time Commitment| Short project – 175 hours |
 |Mentor                  | Meriam Lachkar - Brice Jaglin |
-|Cantact information     | meriam.lachkar@gmail.com - bjaglin@gmail.com | 
+|Cantact information     | https://gitter.im/mlachkar - https://gitter.im/bjaglin | 
