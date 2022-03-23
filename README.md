@@ -106,7 +106,7 @@ If you are interested in any idea or would like to propose your own, please reac
 |Ideal Prerequisites     | Some knowledge of convolution operations. |
 |Expected Difficulty     | Easy – straightforward task, path for execution visible right now, very little uncertainty |
 |Expected Time Commitment| Short project – 175 hours |
-|Mentor                  | Noel Welsh |
+|Mentor                  | Noel Welsh: [noel@noelwelsh.com](mailto:noel@noelwelsh.com) |
 
 ## Scala 3 Dataframe
 
@@ -119,7 +119,7 @@ If you are interested in any idea or would like to propose your own, please reac
 |Ideal Prerequisites     | Some knowledge of dataframes, and Scala 3's compile-time metaprogramming tools. |
 |Expected Difficulty     | Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it |
 |Expected Time Commitment| Long project – 350 hours |
-|Mentor                  | Noel Welsh |
+|Mentor                  |Noel Welsh: [noel@noelwelsh.com](mailto:noel@noelwelsh.com)  |
 
 ## Extract npm dependencies from scalajs-bundler
 
