@@ -93,7 +93,7 @@ If you are interested in any idea or would like to propose your own, please reac
 |Ideal Prerequisites     | Ideally some knowledge of DSL implementation technique, particularly tagless final. |
 |Expected Difficulty     | Easy – straightforward task, path for execution visible right now, very little uncertainty |
 |Expected Time Commitment| Short project – 175 hours |
-|Mentor                  | Noel Welsh |
+|Mentor                  | Noel Welsh: [noel@noelwelsh.com](mailto:noel@noelwelsh.com) |
 
 ## Doodle Bitmap Support
 
