@@ -145,4 +145,4 @@ If you are interested in any idea or would like to propose your own, please reac
 |Ideal Prerequisites     | Preferred: some familiarity with Scalafix and Scalameta. |
 |Expected Difficulty     | Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it |
 |Expected Time Commitment| Short project – 175 hours |
-|Mentor                  | Meriam Lachkar - Brice Jaglin|
+|Mentor                  | Meriam Lachkar - Brice Jaglin |
