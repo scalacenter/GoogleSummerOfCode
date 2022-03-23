@@ -43,19 +43,6 @@ If you are interested in any idea or would like to propose your own, please reac
 |Expected Time Commitment| Short project – 175 hours |
 |Mentor                  | Tomasz Godzik |
 
-## Scala 3 Static Blog Generator
-
-|Title                   | Scala 3 Static Blog Generator |
-|------------------------|-|
-|Link to Project         | https://github.com/scala-thera/thera |
-|Brief Description       | This project is to port Thera, the static website generator for Scala, from Scala 2 to Scala 3. You will also have to port any relevant dependencies of the project from Scala 2 to Scala 3. One of such dependencies is Fastparse, a Scala 2 parser library.<br /><br />In process, you will likely have to deal with a lot of metaprogramming as Scala 2 and Scala 3 metaprogramming approaches are fundamentally different.<br /><br />Another objective would be to implement a home website for Thera using Thera itself, as a working reference to anyone who wants to use Thera. In process, you will also collect ideas about how the library can be improved and implement them when possible.<br /><br />When doing the project, you will learn about:<br />- Parsers & basics of programming language design<br />- Metaprogramming<br />- Working with programming language ecosystems: the concepts of dependencies, backward and forward compatibilities, cross-compilation |
-|Expected Outcome        | - Thera is ported to Scala 3<br />- The standard workflow of a Thera-powered website involves Scala-cli and not Ammonite/Mill/SBT<br />- There is a home website for Thera implemented with Thera itself, with the getting started guides and relevant documentation |
-|Prerequisites           | - Some prior Scala programming experience<br />- Proactive attitude to your work and a good taste for a library design: apart from actually doing the porting work, you will be expected to actively evaluate the state of the library, look for opportunities to improve its user-facing ergonomics, documentation etc and implement them<br />- Excellent communication skills: you will be actively discussing both the technical work and the state of the library in process<br />- Drive to design and create state-of-the-art open source software |
-|Ideal Prerequisites     | See Prerequisites |
-|Expected Difficulty     | Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it |
-|Expected Time Commitment| Short project – 175 hours |
-|Mentor                  | Anatolii Kmetiuk |
-
 ## Resurect Scala Native bindings generator
 
 |Title                   | Resurect Scala Native bindings generator |
