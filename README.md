@@ -15,7 +15,7 @@ If you are interested in any idea or would like to propose your own, please reac
 |Ideal Prerequisites     | Good knowledge of Scala and experience with notebooks. |
 |Expected Difficulty     | Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it |
 |Expected Time Commitment| Short project – 175 hours |
-|Mentor                  | Tomasz Godzik |
+|Mentor                  | Tomasz Godzik [tgodzik@virtuslab.com](mailto:tgodzik@virtuslab.com)|
 
 ## Semantic highlighting in VS Code
 
@@ -28,7 +28,7 @@ If you are interested in any idea or would like to propose your own, please reac
 |Ideal Prerequisites     | Scala and a bit of knledge about LSP |
 |Expected Difficulty     | Easy – straightforward task, path for execution visible right now, very little uncertainty |
 |Expected Time Commitment| Short project – 175 hours |
-|Mentor                  | Tomasz Godzik |
+|Mentor                  | Tomasz Godzik [tgodzik@virtuslab.com](mailto:tgodzik@virtuslab.com)|
 
 ## LSP Call hierarchy in Metals
 
@@ -40,8 +40,8 @@ If you are interested in any idea or would like to propose your own, please reac
 |Prerequisites           | Scala |
 |Ideal Prerequisites     | Scala and a bit of knowledge about LSP |
 |Expected Difficulty     | Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it |
-|Expected Time Commitment| Short project – 175 hours |
-|Mentor                  | Tomasz Godzik |
+|Expected Time Commitment| Short project – 175 hours 
+|Mentor                  | Tomasz Godzik [tgodzik@virtuslab.com](mailto:tgodzik@virtuslab.com)|
 
 ## Resurect Scala Native bindings generator
 
@@ -54,7 +54,7 @@ If you are interested in any idea or would like to propose your own, please reac
 |Ideal Prerequisites     | Good knowledge of Scala 3, experience of working with Scala Native |
 |Expected Difficulty     | Easy – straightforward task, path for execution visible right now, very little uncertainty |
 |Expected Time Commitment| Short project – 175 hours |
-|Mentor                  | Wojciech Mazur |
+|Mentor                  | Wojciech Mazur [wmazur@virtuslab.com](mailto:wmazur@virtuslab.com) |
 
 ## Optimization of Scala Native linker
 
@@ -67,7 +67,7 @@ If you are interested in any idea or would like to propose your own, please reac
 |Ideal Prerequisites     | Good Scala 2 or Java knowledge with additional experience in the JVM profiling. |
 |Expected Difficulty     | Hard – involves high degree of uncertainty even for a highly experienced person |
 |Expected Time Commitment| Long project – 350 hours |
-|Mentor                  | Wojciech Mazur |
+|Mentor                  | Wojciech Mazur [wmazur@virtuslab.com](mailto:wmazur@virtuslab.com) |
 
 ## Generation of debugging symbols in Scala Native and integration with LLDB debugger.
 
@@ -80,7 +80,7 @@ If you are interested in any idea or would like to propose your own, please reac
 |Ideal Prerequisites     | Scala, LLVM |
 |Expected Difficulty     | Hard – involves high degree of uncertainty even for a highly experienced person |
 |Expected Time Commitment| Long project – 350 hours |
-|Mentor                  | Wojciech Mazur |
+|Mentor                  | Wojciech Mazur [wmazur@virtuslab.com](mailto:wmazur@virtuslab.com) |
 
 ## Doodle Explorer
 
