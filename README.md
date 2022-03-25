@@ -1,4 +1,4 @@
-In this documnent, you can find a list of ideas that are proposed by Scala Center for Google Summer of Code 2022.
+In this document, you can find a list of ideas that are proposed by Scala Center for Google Summer of Code 2022.
 
 If you are interested in any idea or would like to propose your own, please reach out to your potential mentor. You can also reach Scala Center at scala.center(at)epfl.ch.
 
@@ -134,9 +134,9 @@ If you are interested in any idea or would like to propose your own, please reac
 |Expected Time Commitment| Short project – 175 hours |
 |Mentor                  | Sébastien Doeraene |
 
-## Write a compatible ExplicitResultTypes rule for Scala 3
+## Adapt the ExplicitResultTypes scalafix rule for Scala 3
 
-|Title                   | Write a compatible ExplicitResultTypes rule for Scala 3 |
+|Title                   | Adapt the ExplicitResultTypes scalafix rule for Scala 3 |
 |------------------------|-|
 |Link to Project         | https://github.com/scalacenter/scalafix |
 |Brief Description       | Scalafix provides rules that rewrite or lint your code. One of them is ExplicitResultTypes, that add explicit types to def/val/var. This rule is linked to Scala 2 compiler. We need to rewrite it to interface with the Scala 3 compiler. |
@@ -146,4 +146,4 @@ If you are interested in any idea or would like to propose your own, please reac
 |Expected Difficulty     | Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it |
 |Expected Time Commitment| Short project – 175 hours |
 |Mentor                  | Meriam Lachkar - Brice Jaglin |
-|Cantact information     | https://gitter.im/mlachkar - https://gitter.im/bjaglin | 
+|Contact information     | https://gitter.im/mlachkar - https://gitter.im/bjaglin | 
