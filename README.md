@@ -139,6 +139,7 @@ If you are interested in any idea or would like to propose your own, please reac
 |Title                   | Adapt the ExplicitResultTypes scalafix rule for Scala 3 |
 |------------------------|-|
 |Link to Project         | https://github.com/scalacenter/scalafix |
+|Link to the issue.      | https://github.com/scalacenter/scalafix/issues/1583 |
 |Brief Description       | Scalafix provides rules that rewrite or lint your code. One of them is ExplicitResultTypes, that add explicit types to def/val/var. This rule is linked to Scala 2 compiler. We need to rewrite it to interface with the Scala 3 compiler. |
 |Expected Outcome        |  A working ExplicitResultTypes |
 |Prerequisites           | Required: some experience with Scala, eagerness to learn more about Scala 3. <br /> |
