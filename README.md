@@ -121,6 +121,19 @@ If you are interested in any idea or would like to propose your own, please reac
 |Expected Time Commitment| Long project – 350 hours |
 |Mentor                  |Noel Welsh: [noel@noelwelsh.com](mailto:noel@noelwelsh.com)  |
 
+## Scala 3 upgrade for shapesafe
+
+| Title                    | Scala 3 upgrade for shapesafe                                |
+| ------------------------ | ------------------------------------------------------------ |
+| Link to Project          | https://github.com/tribbloid/shapesafe                       |
+| Brief Description        | Shapesafe is one of the most capable static shape inference libraries available for production-grade compilers (Scala 2.13), Its speed however is capped by complex and uncached implicit search and type inference implementation. In this project, we intend to bring the library to use Scala 3, which systematically solved the caching problem and introduced language features (compile-time ops, extensible records, polymorphic eta-expansion) that can drastically simplify library design. |
+| Expected Outcome         | Allow shapesafe to be used in Scala 3 programs, improve compilation speed for long computation graph by > 10x. |
+| Prerequisites            | Good knowledge of Scala programming                          |
+| Ideal Prerequisites      | Some knowledge of basic type theory, Curry-Howard correspondence & Scala 3's compile-time metaprogramming. |
+| Expected Difficulty      | Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it |
+| Expected Time Commitment | Long project – 350 hours                                     |
+| Mentor                   | Peng Cheng: [peng.cheng@acyclic.ai](mailto:peng.cheng@acyclic.ai) |
+
 ## Extract npm dependencies from scalajs-bundler
 
 |Title                   | Extract npm dependencies from scalajs-bundler |
