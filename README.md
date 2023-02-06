@@ -15,7 +15,7 @@ If you are interested in any idea or would like to propose your own, please reac
 |Ideal Prerequisites     |Some understanding on tagless final style.|
 |Expected Difficulty     |Easy – straightforward task, path for execution visible right now, very little uncertainty|
 |Expected Time Commitment|Short project – 180 hours|
-|Mentor                  |Noel Welsh [@noelwelsh](https://github.com/noelwelsh)|
+|Mentor                  |Noel Welsh (GitHub: [@noelwelsh](https://github.com/noelwelsh), Email: [noel@noelwelsh.com](mailto:noel@noelwelsh.com)) |
 |Co-mentor               | |
 
 
@@ -30,7 +30,7 @@ If you are interested in any idea or would like to propose your own, please reac
 |Ideal Prerequisites     |Some understanding of Scala 3, reactive programming, UI toolkits, and tagless final.|
 |Expected Difficulty     |Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it|
 |Expected Time Commitment|Long project – 360 hours|
-|Mentor                  |Noel Welsh [@noelwelsh](https://github.com/noelwelsh)|
+|Mentor                  |Noel Welsh (GitHub: [@noelwelsh](https://github.com/noelwelsh), Email: [noel@noelwelsh.com](mailto:noel@noelwelsh.com))|
 |Co-mentor               | |
 
 
@@ -45,7 +45,7 @@ If you are interested in any idea or would like to propose your own, please reac
 |Ideal Prerequisites     |Basic knowledge of bitmap convolutions, some understanding of tagless final.|
 |Expected Difficulty     |Easy – straightforward task, path for execution visible right now, very little uncertainty|
 |Expected Time Commitment|Short project – 180 hours|
-|Mentor                  |Noel Welsh [@noelwelsh](https://github.com/noelwelsh)|
+|Mentor                  |Noel Welsh (GitHub: [@noelwelsh](https://github.com/noelwelsh), Email: [noel@noelwelsh.com](mailto:noel@noelwelsh.com))|
 |Co-mentor               | |
 
 
@@ -60,7 +60,7 @@ If you are interested in any idea or would like to propose your own, please reac
 |Ideal Prerequisites     |Experience with the dotty compiler|
 |Expected Difficulty     |Hard – involves high degree of uncertainty even for a highly experienced person|
 |Expected Time Commitment|Short project – 180 hours|
-|Mentor                  |Nicolas Stucki [@nicolasstucki](https://github.com/nicolasstucki)|
+|Mentor                  |Nicolas Stucki (GitHub: [@nicolasstucki](https://github.com/nicolasstucki), Email: [nicolas.stucki@epfl.ch](mailto:nicolas.stucki@epfl.ch))|
 |Co-mentor               | |
 
 
@@ -75,7 +75,7 @@ If you are interested in any idea or would like to propose your own, please reac
 |Ideal Prerequisites     |+ familiarity with compiler internals.|
 |Expected Difficulty     |Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it|
 |Expected Time Commitment|Long project – 360 hours|
-|Mentor                  |Ruslan Shevchenko [@rssh](https://github.com/rssh)|
+|Mentor                  |Ruslan Shevchenko (GitHub: [@rssh](https://github.com/rssh), Email: [ruslan@shevchenko.kiev.ua](mailto:ruslan@shevchenko.kiev.ua))|
 |Co-mentor               | |
 
 
@@ -90,7 +90,7 @@ If you are interested in any idea or would like to propose your own, please reac
 |Ideal Prerequisites     |+ familiarity with sbt internals.|
 |Expected Difficulty     |Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it|
 |Expected Time Commitment|Short project – 180 hours|
-|Mentor                  |Ruslan Shevchenko [@rssh](https://github.com/rssh)|
+|Mentor                  |Ruslan Shevchenko (GitHub: [@rssh](https://github.com/rssh), Email: [ruslan@shevchenko.kiev.ua](mailto:ruslan@shevchenko.kiev.ua))|
 |Co-mentor               | |
 
 
@@ -105,7 +105,7 @@ If you are interested in any idea or would like to propose your own, please reac
 | Ideal Prerequisites      | Experience with JNI, Java, C, functional programming, Typelevel libraries |
 | Expected Difficulty      | Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it |
 | Expected Time Commitment | Long project – 360 hours                                     |
-| Mentor                   | Arman Bilge [@armanbilge](https://github.com/armanbilge)     |
+| Mentor                   | Arman Bilge (GitHub: [@armanbilge](https://github.com/armanbilge), Email: [armanbilge@gmail.com](mailto:armanbilge@gmail.com))     |
 | Co-mentor                | Daniel Spiewak [@djspiewak](https://github.com/djspiewak)    |
 
 
@@ -120,7 +120,7 @@ If you are interested in any idea or would like to propose your own, please reac
 |Ideal Prerequisites     |Experience with Typelevel libraries|
 |Expected Difficulty     |Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it|
 |Expected Time Commitment|Short project – 180 hours|
-|Mentor                  |Arman Bilge [@armanbilge](https://github.com/armanbilge)|
+|Mentor                  |Arman Bilge (GitHub: [@armanbilge](https://github.com/armanbilge), Email: [armanbilge@gmail.com](mailto:armanbilge@gmail.com))|
 |Co-mentor               |Christopher Davenport [@ChristopherDavenport](https://github.com/ChristopherDavenport) |
 
 ## Pure Scala Open Telemetry implementation
@@ -134,7 +134,7 @@ If you are interested in any idea or would like to propose your own, please reac
 |Ideal Prerequisites     |Experience with Typelevel libraries|
 |Expected Difficulty     |Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it|
 |Expected Time Commitment|Long project – 360 hours|
-|Mentor                  |Arman Bilge [@armanbilge](https://github.com/armanbilge)|
+|Mentor                  |Arman Bilge (GitHub: [@armanbilge](https://github.com/armanbilge), Email: [armanbilge@gmail.com](mailto:armanbilge@gmail.com))|
 |Co-mentor               |Maksym Ochenashko [@iRevive](https://github.com/iRevive) |
 
 ## Scala webapp template
@@ -148,7 +148,7 @@ If you are interested in any idea or would like to propose your own, please reac
 |Ideal Prerequisites     |- Intermediate+ Scala experience<br>- Interest in people adopting Scala<br>- Wide experience on Web Applications using different programming languages/frameworks<br>- Scala.js experience<br>- Experience contributing to libraries/frameworks|
 |Expected Difficulty     |Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it|
 |Expected Time Commitment|Short project – 180 hours|
-|Mentor                  |Alexis Hernandez [@AlexITC](https://github.com/AlexITC)|
+|Mentor                  |Alexis Hernandez (GitHub: [@AlexITC](https://github.com/AlexITC), Email: [alexis@wiringbits.net](mailto:alexis@wiringbits.net))|
 |Co-mentor               | |
 
 
