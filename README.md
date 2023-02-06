@@ -1,163 +1,156 @@
-In this document, you can find a list of ideas that are proposed by Scala Center for Google Summer of Code 2022.
+In this document, you can find a list of ideas that are proposed by Scala Center for Google Summer of Code 2023.
 
-If you are interested in any idea or would like to propose your own, please reach out to your potential mentor. You can also reach Scala Center at scala.center(at)epfl.ch.
+If you are interested in any idea or would like to propose your own, please reach out to your potential mentor. You can also reach Scala Center at [scala.center(at)epfl.ch](mailto:scala.center@epfl.ch).
 
 # Project Ideas
 
-## Notebook support in Metals
+## Doodle Canvas
 
-|Title                   | Notebook support in Metals |
+|Title                   |Doodle Canvas|
 |------------------------|-|
-|Link to Project         | https://github.com/scalameta/metals |
-|Brief Description       | https://github.com/scalameta/metals-feature-requests/issues/236 <br /><br />Overall, VS Code allows to support notebook cells and there is a number of things we would need to do to make it available. These would include automatic setup of almond, integrating with the build definition and adding LSP support for notebook cell.  There is also the possibility of extending the task to making jupiter supported with Metals completions. |
-|Expected Outcome        | Users able to create notebook cells in their projects and running them. |
-|Prerequisites           | Scala |
-|Ideal Prerequisites     | Good knowledge of Scala and experience with notebooks. |
-|Expected Difficulty     | Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it |
-|Expected Time Commitment| Short project – 175 hours |
-|Mentor                  | Tomasz Godzik [tgodzik@virtuslab.com](mailto:tgodzik@virtuslab.com)|
+|Link to Project         |https://github.com/creativescala/doodle/|
+|Brief Description       |Doodle is a library for 2D graphics. It has good support for producing structured images, but sometimes you just want to blast pixels onto a screen. This project aims to add support for that.|
+|Expected Outcome        |A Doodle algebra or algebras that support writing pixels, and probably lines, circles, and other shapes, directly onto the screen.|
+|Prerequisites           |Basic Scala knowledge|
+|Ideal Prerequisites     |Some understanding on tagless final style.|
+|Expected Difficulty     |Easy – straightforward task, path for execution visible right now, very little uncertainty|
+|Expected Time Commitment|Short project – 180 hours|
+|Mentor                  |Noel Welsh [@noelwelsh](https://github.com/noelwelsh)|
+|Co-mentor               | |
 
-## Semantic highlighting in VS Code
 
-|Title                   | Semantic highlighting in VS Code |
+## Doodle UI
+
+|Title                   |Doodle UI|
 |------------------------|-|
-|Link to Project         | https://github.com/scalameta/metals |
-|Brief Description       | Semantic highlighting is a part of the default LSP spec, which is not yet supported by Metals. This would allow to highlight tokens (keywords etc.) based on the knowledge of the code. Especially useful with things like soft keywords in Scala 3, but not only. Connected issue https://github.com/scalameta/metals-feature-requests/issues/57 |
-|Expected Outcome        | Working semantic highlighting |
-|Prerequisites           | Scala |
-|Ideal Prerequisites     | Scala and a bit of knledge about LSP |
-|Expected Difficulty     | Easy – straightforward task, path for execution visible right now, very little uncertainty |
-|Expected Time Commitment| Short project – 175 hours |
-|Mentor                  | Tomasz Godzik [tgodzik@virtuslab.com](mailto:tgodzik@virtuslab.com)|
+|Link to Project         |https://github.com/creativescala/doodle-explore/|
+|Brief Description       |Develop a basic cross-platform UI toolkit. In Doodle Explore we have the basics of a cross-platform UI toolkit. The aim of this project is to extract that toolkit and develop it into a more widely usable tool. Developing a toolkit can be a lot of work. To keep the scope to a reasonable level we're not expecting a high degree of customizability from this toolkit: it's use case is quickly creating a workable UI and other libraries should be used in a lot of custom interactivity is required.|
+|Expected Outcome        |Code to implement the library and documentation for the library.|
+|Prerequisites           |Good understanding of Scala.|
+|Ideal Prerequisites     |Some understanding of Scala 3, reactive programming, UI toolkits, and tagless final.|
+|Expected Difficulty     |Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it|
+|Expected Time Commitment|Long project – 360 hours|
+|Mentor                  |Noel Welsh [@noelwelsh](https://github.com/noelwelsh)|
+|Co-mentor               | |
 
-## LSP Call hierarchy in Metals
 
-|Title                   | LSP Call hierarchy in Metals  |
+## Doodle Bitmap Convolutions
+
+|Title                   |Doodle Bitmap Convolutions|
 |------------------------|-|
-|Link to Project         | https://github.com/scalameta/metals |
-|Brief Description       | Call hierarchy is part of the LSP spec and allows editors to show the users a hierachy of method calls. More info in the issue https://github.com/scalameta/metals-feature-requests/issues/188 |
-|Expected Outcome        | Working call hierarchy |
-|Prerequisites           | Scala |
-|Ideal Prerequisites     | Scala and a bit of knowledge about LSP |
-|Expected Difficulty     | Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it |
-|Expected Time Commitment| Short project – 175 hours 
-|Mentor                  | Tomasz Godzik [tgodzik@virtuslab.com](mailto:tgodzik@virtuslab.com)|
+|Link to Project         |https://github.com/creativescala/doodle/issues/94|
+|Brief Description       |Add support for bitmap convolutions to Doodle. The link has more, including a Github project laying out the steps.|
+|Expected Outcome        |Working code and documentation.|
+|Prerequisites           |Some Scala knowledge.|
+|Ideal Prerequisites     |Basic knowledge of bitmap convolutions, some understanding of tagless final.|
+|Expected Difficulty     |Easy – straightforward task, path for execution visible right now, very little uncertainty|
+|Expected Time Commitment|Short project – 180 hours|
+|Mentor                  |Noel Welsh [@noelwelsh](https://github.com/noelwelsh)|
+|Co-mentor               | |
 
-## Resurect Scala Native bindings generator
 
-|Title                   | Resurect Scala Native bindings generator |
+## Quote pattern matching enhancements
+
+|Title                   |Quote pattern matching enhancements|
 |------------------------|-|
-|Link to Project         | https://github.com/scala-native/scala-native-bindgen |
-|Brief Description       | Scala Native bindings generator is a tool designed to create Scala Native bindings from C header files. In the recent years, this project was not actively maintained, it does no longer align with the current Scala Native API, neighter it does not faciliate new features of Scala, e.g. top level definitions. <br /> |
-|Expected Outcome        | 1. Update existing implementation of Scala Native Bindgen to match current API of Scala Native 0.4.x. <br />2. Introduce mechanism for generation of bindings for Scala 3, using opaque types, inlines and other features that might be improve developers experience. <br />3. Optionally introduce mechanism for generating bindings for other languages, e.g. C++, Rust etc. |
-|Prerequisites           | Basic knowledge of Scala and C |
-|Ideal Prerequisites     | Good knowledge of Scala 3, experience of working with Scala Native |
-|Expected Difficulty     | Easy – straightforward task, path for execution visible right now, very little uncertainty |
-|Expected Time Commitment| Short project – 175 hours |
-|Mentor                  | Wojciech Mazur [wmazur@virtuslab.com](mailto:wmazur@virtuslab.com) |
+|Link to Project         |https://github.com/lampepfl/dotty|
+|Brief Description       |In Scala 3's metaprogramming, quoted code allows the type-safe creation of code fragments. Similarly, quoted patterns provide a type-safe way to decompose code fragments. This feature was formalized in "Multi-stage Programming with Generative and Analytical Macros" and then extended with polymorphism in "Scalable Metaprogramming in Scala 3 - Chapter 4". The formalization went beyond what the implementation supported, showing potential for improvement. Specifically, we want to generalize HOAS patterns.|
+|Expected Outcome        |Add missing functionality to the quote pattern matching that is available in from the formalization. Or find and understand other limitations of the language that would be required to support those enhancements. There will probably be a mix between the two.|
+|Prerequisites           |Experience with compilers, good Scala language knowledge, and basic type theory knowledge.|
+|Ideal Prerequisites     |Experience with the dotty compiler|
+|Expected Difficulty     |Hard – involves high degree of uncertainty even for a highly experienced person|
+|Expected Time Commitment|Short project – 180 hours|
+|Mentor                  |Nicolas Stucki [@nicolasstucki](https://github.com/nicolasstucki)|
+|Co-mentor               | |
 
-## Optimization of Scala Native linker
 
-|Title                   | Optimization of Scala Native linker  |
+## dotty-cps-async
+
+|Title                   |dotty-cps-async|
 |------------------------|-|
-|Link to Project         | https://github.com/scala-native/scala-native  |
-|Brief Description       | One of Scala Native issues are long build times, especially with larger projects. The problem is especially visible when using optimizer with release mode, for which work currently is not parallised. The goal of this project is to find and improve existing bottlenecks slowing Scala Native build pipeline, which includes speeding up optimizer, introducing incremental compilation and to examine if providing LLVM IR in binary format would improve compiler performance.<br /> |
-|Expected Outcome        | 1. Setting up benchmarks measuring performance of Scala Native linker<br />2. Introduction and evaluation of possible optimiazation techniques for Scala Native linker, with the goal of lowering linking times by at least 20% |
-|Prerequisites           | Basic Scala 2 / Java, LLVM and C knowledge |
-|Ideal Prerequisites     | Good Scala 2 or Java knowledge with additional experience in the JVM profiling. |
-|Expected Difficulty     | Hard – involves high degree of uncertainty even for a highly experienced person |
-|Expected Time Commitment| Long project – 350 hours |
-|Mentor                  | Wojciech Mazur [wmazur@virtuslab.com](mailto:wmazur@virtuslab.com) |
+|Link to Project         |https://github.com/rssh/dotty-cps-async|
+|Brief Description       |Participate in extending of dotty-cps-async by compiler plugin,  which appply CPS transformation to context function with direct result type, transforming it into monadic style after typing.|
+|Expected Outcome        |Compiler plugin, which will allow using  direct style programming without coloring.|
+|Prerequisites           |basic knowledge of scala and functional programming|
+|Ideal Prerequisites     |+ familiarity with compiler internals.|
+|Expected Difficulty     |Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it|
+|Expected Time Commitment|Long project – 360 hours|
+|Mentor                  |Ruslan Shevchenko [@rssh](https://github.com/rssh)|
+|Co-mentor               | |
 
-## Generation of debugging symbols in Scala Native and integration with LLDB debugger.
 
-|Title                   | Generation of debugging symbols in Scala Native and integration with LLDB debugger.  |
+## Infrastructure for compiler plugin testing for dotty-cps-async
+
+|Title                   |Infrastructure for compiler plugin testing for dotty-cps-async|
 |------------------------|-|
-|Link to Project         | https://github.com/scala-native/scala-native |
-|Brief Description       | Current code generation of LLVM IR in Scala Native is not capable of producing metadata that could be used by existing debugers. Lack of this feature is one of the blockers for wider usage of Scala Native in complex projects. Goal of this project is adaption of existing code generation pipeline to produce required metadata and to provide initialial integration with LLDB debuger.  <br /> |
-|Expected Outcome        | 1. Introduction of debug symbols metadata in LLVM IR generated by Scala Native<br />2. Initial integration of Scala Native with one of existing assembly debuggers, e.g. LLDB, by allowing to lookup variables and source code which is being currently executed. <br />3. Optionally allow to evaluate expressions while using debbuger.     |
-|Prerequisites           | Scala, LLVM  |
-|Ideal Prerequisites     | Scala, LLVM |
-|Expected Difficulty     | Hard – involves high degree of uncertainty even for a highly experienced person |
-|Expected Time Commitment| Long project – 350 hours |
-|Mentor                  | Wojciech Mazur [wmazur@virtuslab.com](mailto:wmazur@virtuslab.com) |
+|Link to Project         |https://github.com/rssh/dotty-cps-async|
+|Brief Description       |Develop and sbt plugin,  suited for testing of dotty-cps-compiler plugin, which will provide an environment for creating a virtual small sbt 'test project' for each directory in list with separate set of files to compile and test|
+|Expected Outcome        |sbt plugin, which will allows easly create test-cases.  Will be suitable to testing not only dotty-cps-async but  potential other compiler plugins.|
+|Prerequisites           |basic knowledge of scala.|
+|Ideal Prerequisites     |+ familiarity with sbt internals.|
+|Expected Difficulty     |Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it|
+|Expected Time Commitment|Short project – 180 hours|
+|Mentor                  |Ruslan Shevchenko [@rssh](https://github.com/rssh)|
+|Co-mentor               | |
 
-## Doodle Explorer
 
-|Title                   | Doodle Explorer |
-|------------------------|-|
-|Link to Project         | https://github.com/creativescala/doodle |
-|Brief Description       | Doodle is a library for generative art. Generative art is typically parameterised by several parameters, such as colour and line thickness. The programmer often searches through many settings of these parameters until they find choices they like. The goal of this project is to create a DSL for describing parameter ranges, from which a UI for exploring the parameter space is generated. |
-|Expected Outcome        | An embedded DSL that allows the user to specify parameter ranges for a function. from which a UI for exploring the parameter space is generated |
-|Prerequisites           | Scala programming knowledge and an interest in generative art. |
-|Ideal Prerequisites     | Ideally some knowledge of DSL implementation technique, particularly tagless final. |
-|Expected Difficulty     | Easy – straightforward task, path for execution visible right now, very little uncertainty |
-|Expected Time Commitment| Short project – 175 hours |
-|Mentor                  | Noel Welsh: [noel@noelwelsh.com](mailto:noel@noelwelsh.com) |
+## io_uring backend for Cats Effect + FS2 JVM
 
-## Doodle Bitmap Support
-
-|Title                   | Doodle Bitmap Support |
-|------------------------|-|
-|Link to Project         | https://github.com/creativescala/doodle/ |
-|Brief Description       | Improve Doodle's support for bitmaps, adding additional methods to load bitmaps, and perform convolution operations on them. |
-|Expected Outcome        | An extension to Doodle for loading bitmaps and performing convolution operations. |
-|Prerequisites           | Basic Scala knowledge |
-|Ideal Prerequisites     | Some knowledge of convolution operations. |
-|Expected Difficulty     | Easy – straightforward task, path for execution visible right now, very little uncertainty |
-|Expected Time Commitment| Short project – 175 hours |
-|Mentor                  | Noel Welsh: [noel@noelwelsh.com](mailto:noel@noelwelsh.com) |
-
-## Scala 3 Dataframe
-
-|Title                   | Scala 3 Dataframe |
-|------------------------|-|
-|Link to Project         | https://github.com/noelwelsh/framed |
-|Brief Description       | Scala 3's improved support for macros and extensible records (tuples) opens the possibility for creating a typed data frame that is dramatically more usable than previous attempts in Scala 2. The goal of this project is to complete a proof of concept demonstrating the viability of creating such a system. |
-|Expected Outcome        | A library demonstrating the implementation techniques needed to bring a full typed dataframe to fruition in Scala 3 |
-|Prerequisites           | Good knowledge of Scala programming |
-|Ideal Prerequisites     | Some knowledge of dataframes, and Scala 3's compile-time metaprogramming tools. |
-|Expected Difficulty     | Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it |
-|Expected Time Commitment| Long project – 350 hours |
-|Mentor                  |Noel Welsh: [noel@noelwelsh.com](mailto:noel@noelwelsh.com)  |
-
-## Scala 3 upgrade for shapesafe
-
-| Title                    | Scala 3 upgrade for shapesafe                                |
+| Title                    | io_uring backend for Cats Effect + FS2 JVM                   |
 | ------------------------ | ------------------------------------------------------------ |
-| Link to Project          | https://github.com/tribbloid/shapesafe                       |
-| Brief Description        | Shapesafe is one of the most capable static shape inference libraries available for production-grade compilers (Scala 2.13), Its speed however is capped by complex and uncached implicit search and type inference implementation. In this project, we intend to bring the library to use Scala 3, which systematically solved the caching problem and introduced language features (compile-time ops, extensible records, polymorphic eta-expansion) that can drastically simplify library design. |
-| Expected Outcome         | Allow shapesafe to be used in Scala 3 programs, improve compilation speed for long computation graph by > 10x. |
-| Prerequisites            | Good knowledge of Scala programming                          |
-| Ideal Prerequisites      | Some knowledge of basic type theory, Curry-Howard correspondence & Scala 3's compile-time metaprogramming. |
+| Link to Project          | https://github.com/typelevel/cats-effect                     |
+| Brief Description        | Cats Effect is a high-performance, multi-threaded runtime for asynchronous programming in Scala. Its latest development is the capability to do (network) I/O "polling" directly from within the runtime, instead of delegating to an external I/O framework.<br><br>io_uring is a Linux API for making efficient I/O system calls.<br><br>The goals of this project are to:<br>1. develop an io_uring polling system for Cats Effect JVM, and<br>2. use it to implement the socket APIs in FS2.<br>FS2 is a streaming I/O library that powers the Ember HTTP server/client and Skunk PostgreSQL client.<br><br>Prior art includes Netty (which demonstrates how to use io_uring from the JVM) and an existing proof-of-concept that targets single-threaded Scala Native (which demonstrates how to integrate io_uring with Cats Effect / FS2). This project can find inspiration in both :)<br><br>Further reading: https://github.com/typelevel/cats-effect/discussions/3070 |
+| Expected Outcome         | An io_uring polling system for Cats Effect and socket implementation for FS2 |
+| Prerequisites            | Scala, ability to read Java and C                            |
+| Ideal Prerequisites      | Experience with JNI, Java, C, functional programming, Typelevel libraries |
 | Expected Difficulty      | Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it |
-| Expected Time Commitment | Long project – 350 hours                                     |
-| Mentor                   | Peng Cheng: [peng.cheng@acyclic.ai](mailto:peng.cheng@acyclic.ai) |
+| Expected Time Commitment | Long project – 360 hours                                     |
+| Mentor                   | Arman Bilge [@armanbilge](https://github.com/armanbilge)     |
+| Co-mentor                | Daniel Spiewak [@djspiewak](https://github.com/djspiewak)    |
 
-## Extract npm dependencies from scalajs-bundler
 
-|Title                   | Extract npm dependencies from scalajs-bundler |
+## http4s Ember WebSocket client
+
+|Title                   |http4s Ember WebSocket client|
 |------------------------|-|
-|Link to Project         | https://github.com/scalacenter/scalajs-bundler |
-|Brief Description       | scalajs-bundler was initially developed for Scala.js project to declare dependencies on NPM libraries, resolving them, and bundling them together with the Scala.js code with Webpack. As time passed, several new bundlers have come to the scene, and Webpack is not the only contender. Moreover, many Scala.js users report that using scalajs-bundler to drive Webpack causes more problems than it solves, and they prefer to configure and run Webpack themselves. However, the need to declare NPM dependencies and resolving them is still there, and arguably scalajs-bundler does a good job of it.<br /><br />This project is about extracting the `npmDependencies`+npm/yarn management out of scalajs-bundler, in a new, independent sbt plugin. This way, Scala.js users can all rely on this core, and use the bundler of their choice. |
-|Expected Outcome        | * The `npmXyz` settings and tasks of scalajs-bundler should be extracted in a separate sbt plugin (perhaps even in a separate repository).<br />* An a appropriate test suite will accompany that plugin.<br />* At least one example project using that plugin and directly integrating with a JS bundler of choice (perhaps Vite or Snowpack) will be showcased.<br />* scalajs-bundler will be adapted to depend on that sbt plugin, to reuse its settings and tasks. |
-|Prerequisites           | * Knowing your way around an sbt build |
-|Ideal Prerequisites     | * Be familiar with the NPM ecosystem<br />* Have developed an sbt plugin before<br />* Be familiar with Scala.js |
-|Expected Difficulty     | Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it |
-|Expected Time Commitment| Short project – 175 hours |
-|Mentor                  | Sébastien Doeraene |
+|Link to Project         |https://http4s.org/|
+|Brief Description       |http4s Ember is a pure Scala, pure FP HTTP server/client that cross-compiles to Scala JVM, Scala.js, and Scala Native.<br><br>WebSocket is a widely-implemented network protocol, commonly deployed for real-time, two-way communication, for example between a browser and server.<br><br>Ember already implements a WebSocket server. The goal of this project is to implement a WebSocket client for Ember. This will unblock several use-cases, such as running GraphQL Subscriptions or executing commands in a Kubernetes Pod.|
+|Expected Outcome        |A WebSocket client for http4s Ember|
+|Prerequisites           |Scala, interest in FP and network protocols|
+|Ideal Prerequisites     |Experience with Typelevel libraries|
+|Expected Difficulty     |Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it|
+|Expected Time Commitment|Short project – 180 hours|
+|Mentor                  |Arman Bilge [@armanbilge](https://github.com/armanbilge)|
+|Co-mentor               |Christopher Davenport [@ChristopherDavenport](https://github.com/ChristopherDavenport) |
 
-## Adapt the ExplicitResultTypes scalafix rule for Scala 3
+## Pure Scala Open Telemetry implementation
 
-|Title                   | Adapt the ExplicitResultTypes scalafix rule for Scala 3 |
+|Title                   |Pure Scala Open Telemetry implementation|
 |------------------------|-|
-|Link to Project         | https://github.com/scalacenter/scalafix |
-|Link to the issue.      | https://github.com/scalacenter/scalafix/issues/1583 |
-|Brief Description       | Scalafix provides rules that rewrite or lint your code. One of them is ExplicitResultTypes, that add explicit types to def/val/var. This rule is linked to Scala 2 compiler. We need to rewrite it to interface with the Scala 3 compiler. |
-|Expected Outcome        |  A working ExplicitResultTypes |
-|Prerequisites           | Required: some experience with Scala, eagerness to learn more about Scala 3. <br /> |
-|Ideal Prerequisites     | Preferred: some familiarity with Scalafix and Scalameta. |
-|Expected Difficulty     | Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it |
-|Expected Time Commitment| Short project – 175 hours |
-|Mentor                  | Meriam Lachkar - Brice Jaglin |
-|Contact information     | https://gitter.im/mlachkar - https://gitter.im/bjaglin | 
+|Link to Project         |https://github.com/typelevel/otel4s|
+|Brief Description       |Open Telemetry is an open standard for observability: instrumenting deployed applications and collecting metrics, traces, and logs. The otel4s library defines an idiomatic, FP Scala interface for Open Telemetry clients. However, so far the only implementation is a wrapper around the Open Telemetry Java SDK.<br><br>The goal of this project is to develop a pure Scala Open Telemetry backend that implements the otel4s API interface and speaks the Open Telemetry protocol. This will make it possible to use Open Telemetry in a Scala application while taking full advantage of the high-performance runtimes and cross-platform (Scala.js, Scala Native) targets available in the Scala ecosystem.|
+|Expected Outcome        |A pure Scala backend for the otel4s library|
+|Prerequisites           |Scala, interest in observability and protocols|
+|Ideal Prerequisites     |Experience with Typelevel libraries|
+|Expected Difficulty     |Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it|
+|Expected Time Commitment|Long project – 360 hours|
+|Mentor                  |Arman Bilge [@armanbilge](https://github.com/armanbilge)|
+|Co-mentor               |Maksym Ochenashko [@iRevive](https://github.com/iRevive) |
+
+## Scala webapp template
+
+|Title                   |Scala webapp template|
+|------------------------|-|
+|Link to Project         |https://github.com/wiringbits/scala-webapp-template/|
+|Brief Description       |Full project description: https://github.com/wiringbits/scala-webapp-template/issues/307<br><br>The Scala Webapp Template is a pragmatic skeleton to build web applications in Scala/Scala.js, including user registration, login, admin portal, and, deployments.<br><br>This project aims to make it easy for non-Scala developers to get into the Scala ecosystem.<br><br>I have discuss with many other devs from the Scala community who agreed that a project like this is a must to attract more people into Scala.<br><br>So far, we have got an adopter coming from php who found the project at Google (see https://twitter.com/NickBelyavski/status/1597755699395952640).|
+|Expected Outcome        |I'm hoping that we can improve the project to get far more usable to devs willing to use it.<br><br>I'd start by documenting everything available, and, creating a roadmap for future improvements.|
+|Prerequisites           |While Scala knowledge is ideal, we can also benefit from having help from people without experience in Scala, this way, the docs should get more approachable.<br><br>Experience with full stack web applications is ideal.|
+|Ideal Prerequisites     |- Intermediate+ Scala experience<br>- Interest in people adopting Scala<br>- Wide experience on Web Applications using different programming languages/frameworks<br>- Scala.js experience<br>- Experience contributing to libraries/frameworks|
+|Expected Difficulty     |Medium – doable with high chance of success given creativity and problem-solving skills from the one doing it|
+|Expected Time Commitment|Short project – 180 hours|
+|Mentor                  |Alexis Hernandez [@AlexITC](https://github.com/AlexITC)|
+|Co-mentor               | |
+
+
+
+
