@@ -2,7 +2,7 @@ In this document, you can find a list of ideas that are proposed by the Scala Or
 
 If you are interested in becoming a contributor on any idea, please reach out to your potential mentor. You can also reach Scala Center at [scala.center(at)epfl.ch](mailto:scala.center@epfl.ch).
 
-If you would like to be a mentor and propose your own idea, please submit a PR editing this file, adding your project to the list, following the format of other projects below.
+If you would like to be a mentor and propose your own idea, please submit a PR editing this file (e.g. see [2023's projects](Past%20years%20ideas/2023.md)), adding your project to the list, following the format of other projects below.
 
 # Project Ideas
 
