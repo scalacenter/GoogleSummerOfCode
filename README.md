@@ -8,7 +8,7 @@ If you would like to be a mentor and propose your own idea, please submit a PR e
 
 ## [TEMPLATE] Project Title
 
-|Title                   |Doodle Canvas|
+|Title                   |Project Title|
 |------------------------|-|
 |Link to Project         |Provide a link to a website or a Git repository of your project.|
 |Brief Description       |Please describe in a few sentences what the project is about.|
@@ -21,4 +21,34 @@ If you would like to be a mentor and propose your own idea, please submit a PR e
 |Co-mentor               | |
 
 
+
+## Doodle Canvas
+
+|Title                   |Doodle Canvas|
+|------------------------|-|
+|Link to Project         |https://github.com/creativescala/doodle/|
+|Brief Description       |Doodle is a library for 2D graphics. It has good support for producing structured images, but sometimes you just want to blast pixels onto a screen. This project aims to add support for that.|
+|Expected Outcome        |A Doodle algebra or algebras that support writing pixels, and probably lines, circles, and other shapes, directly onto the screen.|
+|Prerequisites           |Basic Scala knowledge|
+|Ideal Prerequisites     |Some understanding on tagless final style.|
+|Expected Difficulty     |Easy – straightforward task, path for execution visible right now, very little uncertainty|
+|Expected Time Commitment|Medium project – 175 hours|
+|Mentor                  |Noel Welsh (GitHub: [@noelwelsh](https://github.com/noelwelsh), Email: [noel@noelwelsh.com](mailto:noel@noelwelsh.com)) |
+|Co-mentor               | |
+
+
+
+## Doodle Bitmap Convolutions
+
+|Title                   |Doodle Bitmap Convolutions|
+|------------------------|-|
+|Link to Project         |https://github.com/creativescala/doodle/issues/94|
+|Brief Description       |Add support for bitmap convolutions to Doodle. The link has more, including a Github project laying out the steps.|
+|Expected Outcome        |Working code and documentation.|
+|Prerequisites           |Some Scala knowledge.|
+|Ideal Prerequisites     |Basic knowledge of bitmap convolutions, some understanding of tagless final.|
+|Expected Difficulty     |Easy – straightforward task, path for execution visible right now, very little uncertainty|
+|Expected Time Commitment|Medium project – 175 hours|
+|Mentor                  |Noel Welsh (GitHub: [@noelwelsh](https://github.com/noelwelsh), Email: [noel@noelwelsh.com](mailto:noel@noelwelsh.com))|
+|Co-mentor               | |
 
