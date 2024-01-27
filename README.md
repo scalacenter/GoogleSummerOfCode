@@ -52,3 +52,19 @@ If you would like to be a mentor and propose your own idea, please submit a PR e
 |Mentor                  |Noel Welsh (GitHub: [@noelwelsh](https://github.com/noelwelsh), Email: [noel@noelwelsh.com](mailto:noel@noelwelsh.com))|
 |Co-mentor               | |
 
+## Dotty-cps-async:  support for extensible effect stacks.
+
+|Title                   |Support for extensible effect stacks in dotty-cps-async|
+|------------------------|-|
+|Link to Project         |https://github.com/rssh/dotty-cps-async|
+|Brief Description       |Add support for effect stacks into dotty-cps-async.|
+|Expected Outcome        |Project module with working code and documentation for users and effect stack providers.|
+|Prerequisites           |Some Scala knowledge|
+|Ideal Prerequisites     |Basic knowledge of functional programming and understanding of effect stacks|
+|Expected Difficulty     |Medium – path for execution visible right now, but possible high variations of efforts depend of unknown technical details|
+|Expected Time Commitment|Medium project – 175 hours|
+|Mentor                  |Ruslan Shevchenko (GitHub: [@rssh](https://github.com/rssh), Email: [ruslan@shevchenko.kiev.ua](mailto:ruslan@shevchenko.kiev.ua))|
+|Co-mentor               | |
+
+
+
