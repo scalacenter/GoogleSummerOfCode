@@ -52,6 +52,20 @@ If you would like to be a mentor and propose your own idea, please submit a PR e
 |Mentor                  |Noel Welsh (GitHub: [@noelwelsh](https://github.com/noelwelsh), Email: [noel@noelwelsh.com](mailto:noel@noelwelsh.com))|
 |Co-mentor               | |
 
+## Generate Scala Documentation website with Scaladoc
+
+|Title                   |Generate Scala Documentation website with Scaladoc|
+|------------------------|--------------------------------------------------|
+|Link to Project         |https://github.com/scala/docs.scala-lang/|
+|Brief Description       |Scaladoc for Scala 3 has a modern UI and is developed to render static websites. We would like to use it to replace Jekyll in rendering the documentation website.|
+|Expected Outcome        |We would like a MVP of the website, generated via Scaladoc. We'd need to add support for some Jekyll features such as `include`, and our custom tabs liquid extension.|
+|Prerequisites           |some Scala knowledge|
+|Ideal Prerequisites     |familiarity with Jekyll, fundamentals of CSS and JS|
+|Expected Difficulty     |Medium - We mostly expect pure engineering to bring in the needed Jeykll features, which can be tested on the present documentation sources. As a stretch goal the participant may want to work on styling the pages, create a plug-in system for Scaladoc, or work on incremental documentation builds.|
+|Expected Time Commitment|Large project – 350 hours|
+|Mentor                  |Jamie Thompson (GitHub: [@bishabosha](https://github.com/bishabosha), Email: [jamie.thompson@bath.edu](mailto:jamie.thompson@bath.edu)) |
+|Co-mentor               | |
+
 ## Dotty-cps-async:  support for extensible effect stacks.
 
 |Title                   |Support for extensible effect stacks in dotty-cps-async|
