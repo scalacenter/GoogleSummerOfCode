@@ -80,5 +80,17 @@ If you would like to be a mentor and propose your own idea, please submit a PR e
 |Mentor                  |Ruslan Shevchenko (GitHub: [@rssh](https://github.com/rssh), Email: [ruslan@shevchenko.kiev.ua](mailto:ruslan@shevchenko.kiev.ua))|
 |Co-mentor               | |
 
+## Scala CLI: scripting protocol
 
+|Title                   |Scripting protocol for Scala CLI|
+|------------------------|--------------------------------|
+|Link to Project         |https://github.com/VirtusLab/scala-cli|
+|Brief Description       |Extend Scala CLI with a scripting protocol that can be used to e.g. create source generators. (building on Bloop's built-in support) |
+|Expected Outcome        |You can build a Scala CLI project that will run a source generator (e.g. Protobuf or Smithy). Configuration of script is handled via directives or CLI args, script itself is a self contained scala cli project executed with main method.|
+|Prerequisites           |Some familiarity with Scala, understanding of serialization|
+|Ideal Prerequisites     |Familiarity with Bloop and Scala-CLI, passion for developer tooling|
+|Expected Difficulty     |Medium - protocol needs to expose metadata that is compatible with Scala CLI, and to be extensible in the future (core components are already done, such as Bloop integration) |
+|Expected Time Commitment|Medium project – 175 hours|
+|Mentor                  |Jamie Thompson (GitHub: [@bishabosha](https://github.com/bishabosha), Email: [jamie.thompson@bath.edu](mailto:jamie.thompson@bath.edu)) |
+|Co-mentor               | |
 
