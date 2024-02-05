@@ -94,3 +94,17 @@ If you would like to be a mentor and propose your own idea, please submit a PR e
 |Mentor                  |Jamie Thompson (GitHub: [@bishabosha](https://github.com/bishabosha), Email: [jamie.thompson@bath.edu](mailto:jamie.thompson@bath.edu)) |
 |Co-mentor               | |
 
+## Scaladex: new artifact page
+
+|Title                   |Scripting protocol for Scala CLI|
+|------------------------|--------------------------------|
+|Link to Project         |https://github.com/scalacenter/scaladex|
+|Brief Description       |Add a new page in Scaladex to browse through the list of all artifacts of a project. See full description in [scalacenter/scaladex#1337](https://github.com/scalacenter/scaladex/issues/1337)|
+|Expected Outcome        |We can deploy the new version of Scaladex where it is possible to browse through the artifacts of a project by their names.|
+|Prerequisites           |Some familiarity with Scala and SQL. Basic knowledge about HTML and CSS.|
+|Ideal Prerequisites     |Familiarity with Scala's `Future`, akka-http, doobie|
+|Expected Difficulty     |Medium - most of the implementation can be adapted from the existing code |
+|Expected Time Commitment|Medium project – 175 hours|
+|Mentor                  |Adrien Piquerez (GitHub: [@adpi2](https://github.com/adpi2), Email: [adrien.piquerez@epfl.ch](mailto:adrien.piquerez@epfl.ch)) |
+|Co-mentor               | |
+
