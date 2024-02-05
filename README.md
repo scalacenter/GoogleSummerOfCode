@@ -96,7 +96,7 @@ If you would like to be a mentor and propose your own idea, please submit a PR e
 
 ## Scaladex: new artifact page
 
-|Title                   |Scripting protocol for Scala CLI|
+|Title                   |New artifact page in Scaladex|
 |------------------------|--------------------------------|
 |Link to Project         |https://github.com/scalacenter/scaladex|
 |Brief Description       |Add a new page in Scaladex to browse through the list of all artifacts of a project. See full description in [scalacenter/scaladex#1337](https://github.com/scalacenter/scaladex/issues/1337)|
