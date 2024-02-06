@@ -17,7 +17,7 @@ If you would like to be a mentor and propose your own idea, please submit a PR e
 |Ideal Prerequisites     |What would would be the ideal skillset you are looking for on the project.|
 |Expected Difficulty     |How hard would it be to complete the project?|
 |Expected Time Commitment|Can be either: "Medium project – 175 hours" or "Large project – 350 hours"|
-|Spoken Language         |What language can you speak?|
+|Spoken Language         |Which language can you speak?|
 |Mentor                  |FirstName LastName (GitHub: [@foo](https://github.com/foo), Email: [foo@gmail.com](mailto:foo@gmail.com)) |
 |Co-mentor               | |
 
