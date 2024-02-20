@@ -110,3 +110,34 @@ If you would like to be a mentor and propose your own idea, please submit a PR e
 |Mentor                  |Adrien Piquerez (GitHub: [@adpi2](https://github.com/adpi2), Email: [adrien.piquerez@epfl.ch](mailto:adrien.piquerez@epfl.ch)) |
 |Co-mentor               | |
 
+
+## Sounds of Scala Sampler
+
+|Title                   |Sounds of Scala Sampler|
+|------------------------|-|
+|Link to Project         |[Sounds of Scala](https://github.com/pauliamgiant/sounds-of-scala/)|
+|Brief Description       |Build a basic sampler, extending the current codebase as necessary to support this functionality.|
+|Expected Outcome        |The minimum functionality to be able to load samples (e.g from [FreeSound](https://freesound.org/) or other source) and play them back. There are unlimited possibilities for extensions. The most basic features are pitch shifting, looping, and effects such as envelopes, reverb, and distortion.|
+|Prerequisites           |Some basic knowledge of digital music and Scala.|
+|Ideal Prerequisites     |Some knowledge of Web Audio would also be helpful.|
+|Expected Difficulty     |Medium. The basic project is quite simple but extensions have increasing complexity.|
+|Expected Time Commitment|Medium project – 175 hours|
+|Spoken Language         |English|
+|Mentor                  |Noel Welsh (GitHub: [@noelwelsh](https://github.com/noel), Email: [noel@noelwelsh.com](mailto:noel@noelwelsh.com)) |
+|Co-mentor               |Paul Matthews (Github: [@pauliamgian](https://github.com/pauliamgiant/))|
+
+
+## Sounds of Scala Composable Sound Synthesis
+
+|Title                   |Sounds of Scala Audio Graph|
+|------------------------|-|
+|Link to Project         |[Sounds of Scala](https://github.com/pauliamgiant/sounds-of-scala/)|
+|Brief Description       |Build an audio graph library in Scala, that compiles to Web Audio.|
+|Expected Outcome        |Users can specify an audio graph (consisting of sound sources, transformations, and sink) and run it in the browser using Web Audio. Extensions would allow interactivity, such as controlling sounds from keyboard and mouse events, and changing the graph while it is running.|
+|Prerequisites           |Some basic knowledge of digital music and Scala.|
+|Ideal Prerequisites     |Some knowledge of Web Audio would also be helpful.|
+|Expected Difficulty     |Medium. The basic project is quite simple but extensions have increasing complexity.|
+|Expected Time Commitment|Medium project – 175 hours|
+|Spoken Language         |English|
+|Mentor                  |Noel Welsh (GitHub: [@noelwelsh](https://github.com/noel), Email: [noel@noelwelsh.com](mailto:noel@noelwelsh.com)) |
+|Co-mentor               |Paul Matthews (Github: [@pauliamgian](https://github.com/pauliamgiant/))|
