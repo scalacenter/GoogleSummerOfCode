@@ -111,7 +111,7 @@ If you are a prospective contributor and are interested in working on a Scala pr
 |Expected Time Commitment|Medium project – 175 hours|
 |Spoken Language         |English|
 |Mentor                  |Noel Welsh (GitHub: [@noelwelsh](https://github.com/noel), Email: [noel@noelwelsh.com](mailto:noel@noelwelsh.com)) |
-|Co-mentor               |Paul Matthews (Github: [@pauliamgian](https://github.com/pauliamgiant/))|
+|Co-mentor               |Paul Matthews (Github: [@pauliamgiant](https://github.com/pauliamgiant/))|
 
 
 ## Sounds of Scala Composable Sound Synthesis
@@ -127,4 +127,4 @@ If you are a prospective contributor and are interested in working on a Scala pr
 |Expected Time Commitment|Medium project – 175 hours|
 |Spoken Language         |English|
 |Mentor                  |Noel Welsh (GitHub: [@noelwelsh](https://github.com/noel), Email: [noel@noelwelsh.com](mailto:noel@noelwelsh.com)) |
-|Co-mentor               |Paul Matthews (Github: [@pauliamgian](https://github.com/pauliamgiant/))|
+|Co-mentor               |Paul Matthews (Github: [@pauliamgiant](https://github.com/pauliamgiant/))|
