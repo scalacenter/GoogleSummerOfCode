@@ -4,24 +4,11 @@ If you are interested in becoming a contributor on any idea, please reach out to
 
 If you would like to be a mentor and propose your own idea, please submit a PR editing this file (e.g. see [2023's projects](Past%20years%20ideas/2023.md)), adding your project to the list, following the format of other projects below.
 
+# Application Instructions
+
+If you are a prospective contributor and are interested in working on a Scala project, during GSoC 2024, please take a look at the available projects below. Find the one that interests you most and carefully research it. Indicate your interest to its respective mentor using their email address specified with the project.
+
 # Project Ideas
-
-## [TEMPLATE] Project Title
-
-|Title                   |Project Title|
-|------------------------|-|
-|Link to Project         |Provide a link to a website or a Git repository of your project.|
-|Brief Description       |Please describe in a few sentences what the project is about.|
-|Expected Outcome        |Specify the success criteria for the project. What are the deliverables, how do you know that it is done?|
-|Prerequisites           |What minimal skills and knowledge the contributor needs to have to succeed on this project?|
-|Ideal Prerequisites     |What would would be the ideal skillset you are looking for on the project.|
-|Expected Difficulty     |How hard would it be to complete the project?|
-|Expected Time Commitment|Can be either: "Medium project – 175 hours" or "Large project – 350 hours"|
-|Spoken Language         |Which language can you speak?|
-|Mentor                  |FirstName LastName (GitHub: [@foo](https://github.com/foo), Email: [foo@gmail.com](mailto:foo@gmail.com)) |
-|Co-mentor               | |
-
-
 
 ## Doodle Canvas
 
