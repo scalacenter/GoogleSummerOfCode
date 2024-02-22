@@ -1,12 +1,19 @@
 In this document, you can find a list of ideas that are proposed by the Scala Organisation for Google Summer of Code 2024.
 
-If you are interested in becoming a contributor on any idea, please reach out to your potential mentor. You can also reach Scala Center at [scala.center(at)epfl.ch](mailto:scala.center@epfl.ch).
+# Application
+
+If you are interested in becoming a contributor on any idea, please reach out to your potential mentor using their email address specified with the project. You can also reach Scala Center at [scala.center(at)epfl.ch](mailto:scala.center@epfl.ch).
 
 If you would like to be a mentor and propose your own idea, please submit a PR editing this file (e.g. see [2023's projects](Past%20years%20ideas/2023.md)), adding your project to the list, following the format of other projects below.
 
-# Application Instructions
+# Rules
 
-If you are a prospective contributor and are interested in working on a Scala project, during GSoC 2024, please take a look at the available projects below. Find the one that interests you most and carefully research it. Indicate your interest to its respective mentor using their email address specified with the project.
+You can read the full rules of the program at the following links: [Rules](https://summerofcode.withgoogle.com/rules), [Terms and Conditions](https://summerofcode.withgoogle.com/terms/contributor), [Help](https://summerofcode.withgoogle.com/help).
+
+However, here are some rules that we'd like to emphacise since they are not visible enough at the above links:
+
+- The program is geared towards beginners first and foremost. It is intended to **be a learning experience** for people at the very beginning of their careers. It is also intended to **give an opportunity** to people who would otherwise not have one. It is NOT a freelance job. Therefore, when making an acceptance decision on a potential contributor, we will prioritize disadvantaged backgrounds and contributors at the very beginning of their careers.
+- **IMPORTANT - EPFL Students**: Please note that, according to GSoC rules, there are restrictions on accepting students from an organization's host university. For Scala Center, the host university is EPFL. We can only accept up to 1 student from EPFL, so please take it into account if you're studying at EPFL and consider applying.
 
 # Project Ideas
 
