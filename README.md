@@ -1,4 +1,4 @@
-In this document, you can find a list of ideas that are proposed by the Scala Organisation for Google Summer of Code 2024.
+In this document, you can find a list of ideas that are proposed by the Scala Organisation for [Google Summer of Code 2024](https://summerofcode.withgoogle.com/).
 
 # Application
 
