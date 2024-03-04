@@ -154,5 +154,4 @@ However, here are some rules that we'd like to emphacise since they are not visi
 
 ## Typelevel Ecosystem
 
-For project ideas relating to the Typelevel ecosystem in the categories of AI/ML, serverless, data streaming, observability, and systems programming, please visit
-https://typelevel.org/gsoc/ideas/.
+For project ideas relating to the Typelevel ecosystem in the categories of AI/ML, serverless, data streaming, observability, and systems programming, please visit https://typelevel.org/gsoc/ideas/.
