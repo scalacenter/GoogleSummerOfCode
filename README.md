@@ -105,6 +105,22 @@ However, here are some rules that we'd like to emphacise since they are not visi
 |Co-mentor               | |
 
 
+## Scalafix: `ExplicitResultTypes` for Scala 3
+
+|Title                   |Add Scala 3 support to [`ExplicitResultTypes`](https://scalacenter.github.io/scalafix/docs/rules/ExplicitResultTypes.html)|
+|------------------------|--------------------------------|
+|Link to Project         |https://github.com/scalacenter/scalafix/issues/1583|
+|Brief Description       |At the moment, `ExplicitResultTypes` can only run against source files compiled with Scala 2, as its implementation relies on the Scala 2 presentation compiler. A [2022 GSoC added Scala 3 cross-compilation for all Scalafix modules](https://contributors.scala-lang.org/t/scalafix-cross-compiled-for-scala-3-gsoc-2022/6001), so we can now add and publish an implementation supporting source files compiled with Scala 3, leveraging [the stable Scala 3 presentation compiler API](https://contributors.scala-lang.org/t/stable-presentation-compiler-api/6139), [available in Scala 3.3.3 and later](https://github.com/lampepfl/dotty/tree/main/presentation-compiler/src/main/dotty/tools/pc).|
+|Expected Outcome        |`ExplicitResultTypes` can run against source files compiled with Scala 3 (validated by an extensive Scala 3 corpus / test suite & smoke-runs on a couple of major Scala 3 projects). As a side effect, ability for rule authors to write Scalafix rules in Scala 3. As a bonus, potential ability to run, against source files compiled with Scala 3, `ExplicitResultTypes` along with community rules written in Scala 2 and published with TASTy.|
+|Prerequisites           |Some knowledge of Scala internals|
+|Ideal Prerequisites     |Experience with [SemanticDB](https://scalameta.org/docs/semanticdb/specification.html) and the [Scala 2 or 3 presentation compiler](https://www.chris-kipp.io/blog/an-intro-to-the-scala-presentation-compiler)|
+|Expected Difficulty     |Medium - the stable presentation compiler API was added as an effort to upstream the mtags module from the Metals project, which provides a similar feature, so we do not foresee any contribution to the compiler, only integration work|
+|Expected Time Commitment|Medium project – 175 hours|
+|Spoken Language         |French or English|
+|Mentor                  |Brice Jaglin (GitHub: [@bjaglin](https://github.com/bjaglin)) |
+|Co-mentor               | |
+
+
 ## Sounds of Scala Sampler
 
 |Title                   |Sounds of Scala Sampler|
