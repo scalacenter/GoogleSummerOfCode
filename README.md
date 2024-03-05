@@ -151,3 +151,7 @@ However, here are some rules that we'd like to emphacise since they are not visi
 |Spoken Language         |English|
 |Mentor                  |Noel Welsh (GitHub: [@noelwelsh](https://github.com/noel), Email: [noel@noelwelsh.com](mailto:noel@noelwelsh.com)) |
 |Co-mentor               |Paul Matthews (Github: [@pauliamgiant](https://github.com/pauliamgiant/))|
+
+## Typelevel Ecosystem
+
+For project ideas relating to the Typelevel ecosystem in the categories of AI/ML, serverless, data streaming, observability, and systems programming, please visit https://typelevel.org/gsoc/ideas/.
