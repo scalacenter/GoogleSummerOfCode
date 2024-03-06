@@ -117,7 +117,7 @@ However, here are some rules that we'd like to emphacise since they are not visi
 |Expected Difficulty     |Medium - the stable presentation compiler API was added as an effort to upstream the mtags module from the Metals project, which provides a similar feature, so we do not foresee any contribution to the compiler, only integration work|
 |Expected Time Commitment|Medium project – 175 hours|
 |Spoken Language         |French or English|
-|Mentor                  |Brice Jaglin (GitHub: [@bjaglin](https://github.com/bjaglin)) |
+|Mentor                  |Brice Jaglin (GitHub: [@bjaglin](https://github.com/bjaglin), Email: [bjaglin@gmail.com](mailto:bjaglin@gmail.com)) |
 |Co-mentor               | |
 
 
