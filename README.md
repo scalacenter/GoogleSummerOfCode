@@ -10,6 +10,8 @@ If you would like to be a mentor and propose your own idea, please submit a PR e
 
 You can read the full rules of the program at the following links: [Rules](https://summerofcode.withgoogle.com/rules), [Terms and Conditions](https://summerofcode.withgoogle.com/terms/contributor), [Help](https://summerofcode.withgoogle.com/help).
 
+And here are the requirements for the potential contributor's proposal: [Writing a proposal](https://google.github.io/gsocguides/student/writing-a-proposal).
+
 However, here are some rules that we'd like to emphacise since they are not visible enough at the above links:
 
 - The program is geared towards beginners first and foremost. It is intended to **be a learning experience** for people at the very beginning of their careers. It is also intended to **give an opportunity** to people who would otherwise not have one. It is NOT a freelance job. Therefore, when making an acceptance decision on a potential contributor, we will prioritize disadvantaged backgrounds and contributors at the very beginning of their careers.
