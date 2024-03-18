@@ -89,20 +89,35 @@ However, here are some rules that we'd like to emphacise since they are not visi
 | Mentor                   | Jamie Thompson (GitHub: [@bishabosha](https://github.com/bishabosha), Email: [jamie.thompson@bath.edu](mailto:jamie.thompson@bath.edu))                                                                                                     |
 | Co-mentor                |                                                                                                                                                                                                                                             |
 
-## Scaladex: new artifact page
+## Scaladex: New artifact page
 
-| Title                    | New artifact page in Scaladex                                                                                                                                                                 |
-| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Link to Project          | https://github.com/scalacenter/scaladex                                                                                                                                                       |
-| Brief Description        | Add a new page in Scaladex to browse through the list of all artifacts of a project. See full description in [scalacenter/scaladex#1337](https://github.com/scalacenter/scaladex/issues/1337) |
-| Expected Outcome         | We can deploy the new version of Scaladex where it is possible to browse through the artifacts of a project by their names.                                                                   |
-| Prerequisites            | Some familiarity with Scala and SQL. Basic knowledge about HTML and CSS.                                                                                                                      |
-| Ideal Prerequisites      | Familiarity with Scala's `Future`, akka-http, doobie                                                                                                                                          |
-| Expected Difficulty      | Medium - most of the implementation can be adapted from the existing code                                                                                                                     |
-| Expected Time Commitment | Medium project – 175 hours                                                                                                                                                                    |
-| spoken Language          | French and English                                                                                                                                                                            |
-| Mentor                   | Adrien Piquerez (GitHub: [@adpi2](https://github.com/adpi2), Email: [adrien.piquerez@epfl.ch](mailto:adrien.piquerez@epfl.ch))                                                                |
-| Co-mentor                |                                                                                                                                                                                               |
+|Title                   |New artifact page in Scaladex|
+|------------------------|--------------------------------|
+|Link to Project         |https://github.com/scalacenter/scaladex|
+|Brief Description       |Add a new page in Scaladex to browse through the list of all artifacts of a project. See full description in [scalacenter/scaladex#1337](https://github.com/scalacenter/scaladex/issues/1337)|
+|Expected Outcome        |We can deploy the new version of Scaladex where it is possible to browse through the artifacts of a project by their names.|
+|Prerequisites           |Some familiarity with Scala and SQL. Basic knowledge about HTML and CSS.|
+|Ideal Prerequisites     |Familiarity with Scala's `Future`, akka-http, doobie|
+|Expected Difficulty     |Medium - most of the implementation can be adapted from the existing code |
+|Expected Time Commitment|Medium project – 175 hours|
+|Spoken Language         |French and English|
+|Mentor                  |Adrien Piquerez (GitHub: [@adpi2](https://github.com/adpi2), Email: [adrien.piquerez@epfl.ch](mailto:adrien.piquerez@epfl.ch)) |
+|Co-mentor               |Kannupriya Kalra ([LinkedIn](https://www.linkedin.com/in/kannupriyakalra/))|
+
+## Scaladex: Displaying information from POM files
+
+|Title                   |Information from POM files in Scaladex|
+|------------------------|--------------------------------|
+|Link to Project         |https://github.com/scalacenter/scaladex|
+|Brief Description       |Extract information from POM files to display them in the artifact page of Scaladex. See full description in [scalacenter/scaladex#979](https://github.com/scalacenter/scaladex/issues/979)|
+|Expected Outcome        |We can deploy the new version of Scaladex where it is possible to browse through the artifacts of a project by their names.|
+|Prerequisites           |Some familiarity with Scala and SQL. Basic knowledge about HTML and CSS.|
+|Ideal Prerequisites     |Familiarity with Scala's `Future`, akka-http, doobie|
+|Expected Difficulty     |Medium - most of the implementation can be adapted from the existing code |
+|Expected Time Commitment|Medium project – 175 hours|
+|Spoken Language         |French and English|
+|Mentor                  |Adrien Piquerez (GitHub: [@adpi2](https://github.com/adpi2), Email: [adrien.piquerez@epfl.ch](mailto:adrien.piquerez@epfl.ch)) |
+|Co-mentor               |Kannupriya Kalra ([LinkedIn](https://www.linkedin.com/in/kannupriyakalra/))|
 
 ## Scalafix: `ExplicitResultTypes` for Scala 3
 
