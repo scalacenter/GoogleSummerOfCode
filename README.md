@@ -87,7 +87,7 @@ However, here are some rules that we'd like to emphacise since they are not visi
 | Expected Difficulty      | Medium - protocol needs to expose metadata that is compatible with Scala CLI, and to be extensible in the future (core components are already done, such as Bloop integration)                                                              |
 | Expected Time Commitment | Medium project – 175 hours                                                                                                                                                                                                                  |
 | Mentor                   | Jamie Thompson (GitHub: [@bishabosha](https://github.com/bishabosha), Email: [jamie.thompson@bath.edu](mailto:jamie.thompson@bath.edu))                                                                                                     |
-| Co-mentor                |                                                                                                                                                                                                                                             |
+|Co-mentor               |Kannupriya Kalra ([LinkedIn](https://www.linkedin.com/in/kannupriyakalra/))|
 
 ## Scaladex: New artifact page
 
