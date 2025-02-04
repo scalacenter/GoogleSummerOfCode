@@ -32,7 +32,7 @@ However, here are some rules that we'd like to emphasize since they are not visi
 | Mentor                  | Kannupriya Kalra ([LinkedIn](https://www.linkedin.com/in/kannupriyakalra/), Email: [kannupriyakalra@gmail.com](mailto:kannupriyakalra@gmail.com)) |
 | Co-mentor               | Adrien Piquerez (GitHub: [@adpi2](https://github.com/adpi2), Email: [adrien.piquerez@gmail.com](mailto:adrien.piquerez@gmail.com)) |
 
-** Doodle Bitmap Convolutions
+
 | Title                    | Doodle Bitmap Convolutions                                                                                              |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
 | Link to Project          | https://github.com/creativescala/doodle/issues/94                                                                       |
@@ -45,6 +45,7 @@ However, here are some rules that we'd like to emphasize since they are not visi
 | Mentor                   | Noel Welsh (GitHub: [@noelwelsh](https://github.com/noelwelsh), Email: [noel@noelwelsh.com](mailto:noel@noelwelsh.com)) |
 | Co-mentor                |                                                                                                                         |
 
+
 | Title                    | Doodle Skia Backend                                                                                                     |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
 | Link to Project          | https://github.com/creativescala/doodle/issues/175                                                                      |
@@ -56,6 +57,7 @@ However, here are some rules that we'd like to emphasize since they are not visi
 | Expected Time Commitment | Medium project – 175 hours                                                                                              |
 | Mentor                   | Noel Welsh (GitHub: [@noelwelsh](https://github.com/noelwelsh), Email: [noel@noelwelsh.com](mailto:noel@noelwelsh.com)) |
 | Co-mentor                |                                                                                                                         |
+
 
 | Title                    | Krop Template Engine                                                                                                    |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
