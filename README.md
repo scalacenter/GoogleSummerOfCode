@@ -76,6 +76,23 @@ However, here are some rules that we'd like to emphasize since they are not visi
 | Mentor                  | Kannupriya Kalra ([LinkedIn](https://www.linkedin.com/in/kannupriyakalra/), Email: [kannupriyakalra@gmail.com](mailto:kannupriyakalra@gmail.com)) |
 | Co-mentor               | Adrien Piquerez (GitHub: [@adpi2](https://github.com/adpi2), Email: [adrien.piquerez@gmail.com](mailto:adrien.piquerez@gmail.com)) |
 
+### LLM4S - Implement an agentic toolkit 
+
+### LLM4S - Implement an agentic toolkit for Large Language Models
+
+|Title                   |                                   |
+|------------------------|------------------------------------------|
+|Link to Project         | https://github.com/rorygraves/llm4s                                        |
+|Brief Description       | LLM4S is creating a Large Language Model (LLM) toolkit for Scala.  This project uses the power of Scala to make building LLM based applications easier.  LLMs can be used in an agentic style where the LLM is allowed to call provided tools to access resources (such as reading a webpage, or calling an API service to perform a task).  The goal of this project is to create a standard toolkit that developers can use when building agentic agents. |
+|Expected Outcome        | LLM4S should have a useful set of tools integrated for LLM use, such as file or web browser tools to be used by applications built with LLM4S. |
+|Prerequisites           | Some exerience of Scala and LLMs. |
+|Expected Difficulty     | Medium  |
+|Expected Time Commitment| Medium project - 175 hours |
+|Spoken Language         | English |
+|Mentor                  | Kannupriya Kalra ([LinkedIn](https://www.linkedin.com/in/kannupriyakalra/), Email: [kannupriyakalra@gmail.com](mailto:kannupriyakalra@gmail.com)) |
+|Co-mentor               | Rory Graves ([LinkedIn](https://www.linkedin.com/in/roryjgraves/), Email: [rory.graves@fieldmark.co.uk](mailto:rory.graves@fieldmark.co.uk)) |
+
+
 ### Typelevel Projects
 
 For project ideas relating to the Typelevel ecosystem in the categories of AI/ML, serverless, data streaming, observability, and systems programming, please visit https://typelevel.org/gsoc/ideas/.
