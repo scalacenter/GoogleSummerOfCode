@@ -76,6 +76,10 @@ However, here are some rules that we'd like to emphasize since they are not visi
 | Mentor                  | Kannupriya Kalra ([LinkedIn](https://www.linkedin.com/in/kannupriyakalra/), Email: [kannupriyakalra@gmail.com](mailto:kannupriyakalra@gmail.com)) |
 | Co-mentor               | Adrien Piquerez (GitHub: [@adpi2](https://github.com/adpi2), Email: [adrien.piquerez@gmail.com](mailto:adrien.piquerez@gmail.com)) |
 
+### Typelevel Projects
+
+For project ideas relating to the Typelevel ecosystem in the categories of AI/ML, serverless, data streaming, observability, and systems programming, please visit https://typelevel.org/gsoc/ideas/.
+
 ### Template
 
 |Title                   | |
@@ -90,6 +94,3 @@ However, here are some rules that we'd like to emphasize since they are not visi
 |Mentor                  |FirstName LastName (GitHub: [@foo](https://github.com/foo), Email: [foo@gmail.com](mailto:foo@gmail.com))|
 |Co-mentor               |FirstName LastName (GitHub: [@foo](https://github.com/foo), Email: [foo@gmail.com](mailto:foo@gmail.com))|
 
-## Typelevel Ecosystem
-
-For project ideas relating to the Typelevel ecosystem in the categories of AI/ML, serverless, data streaming, observability, and systems programming, please visit https://typelevel.org/gsoc/ideas/.
