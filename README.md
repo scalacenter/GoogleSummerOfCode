@@ -19,6 +19,19 @@ However, here are some rules that we'd like to emphasize since they are not visi
 
 # Project Ideas
 
+| Title                   | Scaladex: Support for Compiler Plugins |
+| ----------------------- | -------------------------------- |
+| Link to Project         | https://github.com/scalacenter/scaladex/> |
+| Brief Description       | Add support for compiler plugins in Scaladex, the index website of open source Scala artifacts. Adapt the UI of the front page, search page and project page to allow searching, and browsing compiler plugins and their versions. See full description in [scalacenter/scaladex#865](https://github.com/scalacenter/scaladex/issues/865) |
+| Expected Outcome        | Scaladex should index compiler plugin artifacts, such as [org.typelevel:kind-projector_2.13.16:0.13.3](https://repo1.maven.org/maven2/org/typelevel/kind-projector_2.13.16/0.13.3/). It should show them as a separate platform on the front page, search page and project page. |
+| Prerequisites           | Some experience with Scala and SQL. Good knowledge about HTML and css |
+| Ideal Prerequisites     | Some knowledge of the Scala ecosystem, such as Scala platforms and binary versions |
+| Expected Difficulty     | Medium |
+| Expected Time Commitment| Medium project - 175 hours |
+| Spoken Language         | English |
+| Mentor                  | Kannupriya Kalra ([LinkedIn](https://www.linkedin.com/in/kannupriyakalra/), Email: [kannupriyakalra@gmail.com](mailto:kannupriyakalra@gmail.com)) |
+| Co-mentor               | Adrien Piquerez (GitHub: [@adpi2](https://github.com/adpi2), Email: [adrien.piquerez@gmail.com](mailto:adrien.piquerez@gmail.com)) |
+
 ## Template
 
 |Title                   | |
