@@ -76,8 +76,6 @@ However, here are some rules that we'd like to emphasize since they are not visi
 | Mentor                  | Kannupriya Kalra ([LinkedIn](https://www.linkedin.com/in/kannupriyakalra/), Email: [kannupriyakalra@gmail.com](mailto:kannupriyakalra@gmail.com)) |
 | Co-mentor               | Adrien Piquerez (GitHub: [@adpi2](https://github.com/adpi2), Email: [adrien.piquerez@gmail.com](mailto:adrien.piquerez@gmail.com)) |
 
-### LLM4S - Implement an agentic toolkit 
-
 ### LLM4S - Implement an agentic toolkit for Large Language Models
 
 |Title                   |                                   |
