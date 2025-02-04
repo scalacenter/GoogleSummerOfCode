@@ -32,6 +32,45 @@ However, here are some rules that we'd like to emphasize since they are not visi
 | Mentor                  | Kannupriya Kalra ([LinkedIn](https://www.linkedin.com/in/kannupriyakalra/), Email: [kannupriyakalra@gmail.com](mailto:kannupriyakalra@gmail.com)) |
 | Co-mentor               | Adrien Piquerez (GitHub: [@adpi2](https://github.com/adpi2), Email: [adrien.piquerez@gmail.com](mailto:adrien.piquerez@gmail.com)) |
 
+** Doodle Bitmap Convolutions
+| Title                    | Doodle Bitmap Convolutions                                                                                              |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| Link to Project          | https://github.com/creativescala/doodle/issues/94                                                                       |
+| Brief Description        | Add support for bitmap convolutions to Doodle. The link has more, including a Github project laying out the steps.      |
+| Expected Outcome         | Working code and documentation.                                                                                         |
+| Prerequisites            | Some Scala knowledge.                                                                                                   |
+| Ideal Prerequisites      | Basic knowledge of bitmap convolutions, some understanding of tagless final.                                            |
+| Expected Difficulty      | Easy – straightforward task, path for execution visible right now, very little uncertainty                              |
+| Expected Time Commitment | Medium project – 175 hours                                                                                              |
+| Mentor                   | Noel Welsh (GitHub: [@noelwelsh](https://github.com/noelwelsh), Email: [noel@noelwelsh.com](mailto:noel@noelwelsh.com)) |
+| Co-mentor                |                                                                                                                         |
+
+| Title                    | Doodle Skia Backend                                                                                                     |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| Link to Project          | https://github.com/creativescala/doodle/issues/175                                                                      |
+| Brief Description        | Add a Skia backend for Doodle, using the Skiaj bindings.                                                                |
+| Expected Outcome         | Working code and documentation.                                                                                         |
+| Prerequisites            | Some Scala knowledge.                                                                                                   |
+| Ideal Prerequisites      | Some understanding of type classes or tagless final.                                                                    |
+| Expected Difficulty      | Easy – straightforward task, path for execution visible right now, very little uncertainty                              |
+| Expected Time Commitment | Medium project – 175 hours                                                                                              |
+| Mentor                   | Noel Welsh (GitHub: [@noelwelsh](https://github.com/noelwelsh), Email: [noel@noelwelsh.com](mailto:noel@noelwelsh.com)) |
+| Co-mentor                |                                                                                                                         |
+
+| Title                    | Krop Template Engine                                                                                                    |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| Link to Project          | https://github.com/creativescala/krop/issues/14                                                                         |
+| Brief Description        | Create an HTML template engine for the Krop web framework.                                                              |
+| Expected Outcome         | Working code and documentation.                                                                                         |
+| Prerequisites            | Intermediate Scala knowledge and basic HTML knowledge.                                                                  |
+| Ideal Prerequisites      | An understanding of parsing.                                                                                            |
+| Expected Difficulty      | Medium – some design decisions need to be made and the implementation is not straightforward.                           |
+| Expected Time Commitment | Medium project – 175 hours                                                                                              |
+| Mentor                   | Noel Welsh (GitHub: [@noelwelsh](https://github.com/noelwelsh), Email: [noel@noelwelsh.com](mailto:noel@noelwelsh.com)) |
+| Co-mentor                |                                                                                                                         |
+
+
+
 ## Template
 
 |Title                   | |
