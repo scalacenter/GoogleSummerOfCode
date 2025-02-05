@@ -61,6 +61,35 @@ However, here are some rules that we'd like to emphasize since they are not visi
 | Mentor                   | Noel Welsh (GitHub: [@noelwelsh](https://github.com/noelwelsh), Email: [noel@noelwelsh.com](mailto:noel@noelwelsh.com)) |
 | Co-mentor                |                                                                                                                         |
 
+### Business4s: Workflows4s Web UI
+
+| Title                    | Workflows4s Web UI                                                                                                                                                                                 |
+|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Link to Project          | https://github.com/business4s/workflows4s                                                                                                                                                          |
+| Brief Description        | Implement web user interface for Workflows4s. Design the API and implement both server and web side using scala and scala.js. See https://github.com/business4s/workflows4s/issues/19 for details. |
+| Expected Outcome         | Proof of concept of the UI that can present progress of a workflow instance.                                                                                                                       |
+| Prerequisites            | Basic scala skills, basic frontend skills, basic knowledge of HTTP APIs (e.g. REST).                                                                                                               |
+| Expected Difficulty      | Medium                                                                                                                                                                                             |
+| Expected Time Commitment | Large project - 350 hours                                                                                                                                                                          |
+| Spoken Language          | English                                                                                                                                                                                            |
+| Mentor                   | Voytek Pituła (GitHub: [@Krever](https://github.com/Krever), Email: [w.pitula@gmail.com](mailto:w.pitula@gmail.com))                                                                               |
+| Co-mentor                | -                                                                                                                                                                                                  |
+
+### Business4s: ChatOps4s Prototype
+
+| Title                    | ChatOps4s Prototype                                                                                                                                       |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Link to Project          | To be created under https://github.com/business4s                                                                                                         |
+| Brief Description        | Prototype of library/toolkit allowing to easily send messages and receive input from chat platforms (e.g. Slack)                                          |
+| Expected Outcome         | Prototype that allows getting information in and out Slack with as little effort as possible. Research on how hard will it be to support other platforms. |
+| Prerequisites            | Ability to research and consume external APIs. Basic exposure to some chat platform (Slack, Discord, MS Teams)                                            |
+| Expected Difficulty      | Medium                                                                                                                                                    |
+| Expected Time Commitment | Medium project - 175 hours                                                                                                                                |
+| Spoken Language          | English                                                                                                                                                   |
+| Mentor                   | Voytek Pituła (GitHub: [@Krever](https://github.com/Krever), Email: [w.pitula@gmail.com](mailto:w.pitula@gmail.com))                                      |
+| Co-mentor                | -                                                                                                                                                         |
+
+
 ### Scaladex: Support for Compiler Plugins
 
 | Title                   | Scaladex: Support for Compiler Plugins |
