@@ -160,6 +160,56 @@ However, here are some rules that we'd like to emphasize since they are not visi
 |Mentor                  | Kannupriya Kalra ([LinkedIn](https://www.linkedin.com/in/kannupriyakalra/), Email: [kannupriyakalra@gmail.com](mailto:kannupriyakalra@gmail.com)) |
 |Co-mentor               | Rory Graves ([LinkedIn](https://www.linkedin.com/in/roryjgraves/), Email: [rory.graves@fieldmark.co.uk](mailto:rory.graves@fieldmark.co.uk)) |
 
+
+### Scala Native / Scala.js Projects
+
+| Title                   | Scala Bazel Rules for Scala.js and Scala Native |
+|-------------------------|------------------------------------------------|
+|Link to Project          | https://github.com/bazelbuild/rules_scala |
+|Brief Description        | This project aims to develop Bazel build rules for Scala.js and Scala Native, enabling efficient and reproducible builds for both platforms. The project will provide first-class support for Scala projects within the Bazel ecosystem, improving integration and developer experience. |
+|Expected Outcome         | Functional and well-documented Bazel rules that allow compiling, testing, and packaging Scala.js and Scala Native projects. Demonstration projects showcasing usage. |
+|Prerequisites            | Experience with Scala, build tools (SBT, Bazel), and Scala.js/Scala Native basics. Some familiarity with Bazel rule definitions is a plus. |
+|Expected Difficulty      | Medium |
+|Expected Time Commitment | Large project - 350 hours |
+|Mentor                   | Wojciech Mazur (GitHub: [@WojciechMazur](https://github.com/Wojciech Mazur), Email: [wmazur@virtuslab.com](wmazur@virtuslab.com))|
+|Co-mentor                | TODO |
+
+| Title                   | JMH-Compliant Benchmarking Framework for Scala Native & Scala.js |
+|-------------------------|-------------------------------------------------------------|
+|Link to Project          | [Scala Native](https://scala-native.org/) / [Scala.js](https://www.scala-js.org/) |
+|Brief Description        | This project aims to implement a benchmarking framework similar to JMH (Java Microbenchmark Harness)  allowing for accurate and reliable performance measurements on non JVM platforms. Both Scala Native and Scala.js cannot consume a modified JVM bytecode emitted by JMH framework. The goal is to create a runtime implementation for executing microbenchmarks and a Scala compiler plugin performing required transformations of Scala.js / Scala Native code based on JMH framework compiletime annotations. |
+|Expected Outcome         | A benchmarking framework that mimics JMH APIs and produces reliable results for Scala Native and Scala.js. Demonstration benchmarks showcasing usage. |
+|Prerequisites            | Good understanding of benchmarking principles, Scala Native, Scala.js, and Scala compiler plugins. Some knowledge of JMH is beneficial. |
+|Expected Difficulty      | Medium |
+|Expected Time Commitment | Medium project - 175 hours |
+|Mentor                   | Wojciech Mazur (GitHub: [@WojciechMazur](https://github.com/Wojciech Mazur), Email: [wmazur@virtuslab.com](wmazur@virtuslab.com))|
+|Co-mentor                | TODO |
+
+### Scala Native Projects
+
+| Title                   | WebAssembly Backend for Scala Native |
+|-------------------------|--------------------------------------|
+|Link to Project          | [Scala Native](https://scala-native.org/) |
+|Brief Description        | This project aims to introduce WebAssembly (Wasm) as a new backend for Scala Native, allowing Scala Native programs to run efficiently in WebAssembly-supported environments, such serverless runtimes (via WASI) or browsers. The goal is to design an alternative to current LLVM-based backend allowing to emit Wasm directlly |
+|Expected Outcome         | A functional WebAssembly backend capable of compiling Scala Native programs to Wasm, with basic runtime support and test cases demonstrating correctness. |
+|Prerequisites            | Strong knowledge of Scala and compilers. Familiarity with LLVM, WebAssembly, and Scala Native’s internals is a plus. |
+|Expected Difficulty      | Hard |
+|Expected Time Commitment | Large project - 350 hours |
+|Mentor                   |Wojciech Mazur (GitHub: [@WojciechMazur](https://github.com/Wojciech Mazur), Email: [wmazur@virtuslab.com](wmazur@virtuslab.com))|
+|Co-mentor                | TODO |
+
+| Title                   | Incremental Optimization of Scala Native IR |
+|-------------------------|-----------------------------------------------|
+|Link to Project          | [Scala Native](https://scala-native.org/) |
+|Brief Description        | This project aims to implement incremental optimization for Scala Native’s Intermediate Representation (IR), improving compilation speed by reusing results from previous compilation runs instead of optimizing the entire program from scratch. |
+|Expected Outcome         | A working prototype of an incremental optimization pipeline for Scala Native IR, with measurable speedups over full optimizations. |
+|Prerequisites            | Strong understanding of compilers, Scala Native IR, and optimization techniques. Knowledge of LLVM and incremental compilation strategies is a plus. |
+|Expected Difficulty      | Hard |
+|Expected Time Commitment | Large project - 350 hours |
+|Mentor                   |Wojciech Mazur (GitHub: [@WojciechMazur](https://github.com/Wojciech Mazur), Email: [wmazur@virtuslab.com](wmazur@virtuslab.com))|
+|Co-mentor                | TODO |
+
+
 ### Template
 
 |Title                   | |
