@@ -182,9 +182,8 @@ However, here are some rules that we'd like to emphasize since they are not visi
 |Prerequisites            | Good understanding of benchmarking principles, Scala Native, Scala.js, and Scala compiler plugins. Some knowledge of JMH is beneficial. |
 |Expected Difficulty      | Medium |
 |Expected Time Commitment | Medium project - 175 hours |
-|Mentor                   | Wojciech Mazur (GitHub: [@WojciechMazur](https://github.com/WojciechMazur), Email: [wmazur@virtuslab.com](wmazur@virtuslab.com))|
-|Co-mentor                | TODO |
-
+|Mentor                   | Wojciech Mazur (GitHub: [@WojciechMazur](https://github.com/WojciechMazur), Email: [wmazur@virtuslab.com](mailto:wmazur@virtuslab.com) )|
+|Co-mentor                | Sébastien Doeraene (GitHub: [@sjrd](https://github.com/sjrd), Email: [sjrdoeraene@gmail.com](mailto:sjrdoeraene@gmail.com) ) |
 ### Scala Native Projects
 
 | Title                   | WebAssembly Backend for Scala Native |
@@ -206,8 +205,8 @@ However, here are some rules that we'd like to emphasize since they are not visi
 |Prerequisites            | Strong understanding of compilers, Scala Native IR, and optimization techniques. Knowledge of LLVM and incremental compilation strategies is a plus. |
 |Expected Difficulty      | Hard |
 |Expected Time Commitment | Large project - 350 hours |
-|Mentor                   |Wojciech Mazur (GitHub: [@WojciechMazur](https://github.com/WojciechMazur), Email: [wmazur@virtuslab.com](wmazur@virtuslab.com))|
-|Co-mentor                | TODO |
+|Mentor                   | Wojciech Mazur (GitHub: [@WojciechMazur](https://github.com/WojciechMazur), Email: [wmazur@virtuslab.com](mailto:wmazur@virtuslab.com) )|
+|Co-mentor                | Sébastien Doeraene (GitHub: [@sjrd](https://github.com/sjrd), Email: [sjrdoeraene@gmail.com](mailto:sjrdoeraene@gmail.com) ) |
 
 
 ### Template
