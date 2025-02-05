@@ -171,7 +171,7 @@ However, here are some rules that we'd like to emphasize since they are not visi
 |Prerequisites            | Experience with Scala, build tools (SBT, Bazel), and Scala.js/Scala Native basics. Some familiarity with Bazel rule definitions is a plus. |
 |Expected Difficulty      | Medium |
 |Expected Time Commitment | Large project - 350 hours |
-|Mentor                   | Wojciech Mazur (GitHub: [@WojciechMazur](https://github.com/Wojciech Mazur), Email: [wmazur@virtuslab.com](wmazur@virtuslab.com))|
+|Mentor                   | Wojciech Mazur (GitHub: [@WojciechMazur](https://github.com/WojciechMazur), Email: [wmazur@virtuslab.com](wmazur@virtuslab.com))|
 |Co-mentor                | TODO |
 
 | Title                   | JMH-Compliant Benchmarking Framework for Scala Native & Scala.js |
@@ -182,7 +182,7 @@ However, here are some rules that we'd like to emphasize since they are not visi
 |Prerequisites            | Good understanding of benchmarking principles, Scala Native, Scala.js, and Scala compiler plugins. Some knowledge of JMH is beneficial. |
 |Expected Difficulty      | Medium |
 |Expected Time Commitment | Medium project - 175 hours |
-|Mentor                   | Wojciech Mazur (GitHub: [@WojciechMazur](https://github.com/Wojciech Mazur), Email: [wmazur@virtuslab.com](wmazur@virtuslab.com))|
+|Mentor                   | Wojciech Mazur (GitHub: [@WojciechMazur](https://github.com/WojciechMazur), Email: [wmazur@virtuslab.com](wmazur@virtuslab.com))|
 |Co-mentor                | TODO |
 
 ### Scala Native Projects
@@ -195,7 +195,7 @@ However, here are some rules that we'd like to emphasize since they are not visi
 |Prerequisites            | Strong knowledge of Scala and compilers. Familiarity with LLVM, WebAssembly, and Scala Native’s internals is a plus. |
 |Expected Difficulty      | Hard |
 |Expected Time Commitment | Large project - 350 hours |
-|Mentor                   |Wojciech Mazur (GitHub: [@WojciechMazur](https://github.com/Wojciech Mazur), Email: [wmazur@virtuslab.com](wmazur@virtuslab.com))|
+|Mentor                   |Wojciech Mazur (GitHub: [@WojciechMazur](https://github.com/WojciechMazur), Email: [wmazur@virtuslab.com](wmazur@virtuslab.com))|
 |Co-mentor                | TODO |
 
 | Title                   | Incremental Optimization of Scala Native IR |
@@ -206,7 +206,7 @@ However, here are some rules that we'd like to emphasize since they are not visi
 |Prerequisites            | Strong understanding of compilers, Scala Native IR, and optimization techniques. Knowledge of LLVM and incremental compilation strategies is a plus. |
 |Expected Difficulty      | Hard |
 |Expected Time Commitment | Large project - 350 hours |
-|Mentor                   |Wojciech Mazur (GitHub: [@WojciechMazur](https://github.com/Wojciech Mazur), Email: [wmazur@virtuslab.com](wmazur@virtuslab.com))|
+|Mentor                   |Wojciech Mazur (GitHub: [@WojciechMazur](https://github.com/WojciechMazur), Email: [wmazur@virtuslab.com](wmazur@virtuslab.com))|
 |Co-mentor                | TODO |
 
 
