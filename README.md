@@ -186,17 +186,6 @@ However, here are some rules that we'd like to emphasize since they are not visi
 |Co-mentor                | Sébastien Doeraene (GitHub: [@sjrd](https://github.com/sjrd), Email: [sjrdoeraene@gmail.com](mailto:sjrdoeraene@gmail.com) ) |
 ### Scala Native Projects
 
-| Title                   | WebAssembly Backend for Scala Native |
-|-------------------------|--------------------------------------|
-|Link to Project          | [Scala Native](https://scala-native.org/) |
-|Brief Description        | This project aims to introduce WebAssembly (Wasm) as a new backend for Scala Native, allowing Scala Native programs to run efficiently in WebAssembly-supported environments, such serverless runtimes (via WASI) or browsers. The goal is to design an alternative to current LLVM-based backend allowing to emit Wasm directlly |
-|Expected Outcome         | A functional WebAssembly backend capable of compiling Scala Native programs to Wasm, with basic runtime support and test cases demonstrating correctness. |
-|Prerequisites            | Strong knowledge of Scala and compilers. Familiarity with LLVM, WebAssembly, and Scala Native’s internals is a plus. |
-|Expected Difficulty      | Hard |
-|Expected Time Commitment | Large project - 350 hours |
-|Mentor                   |Wojciech Mazur (GitHub: [@WojciechMazur](https://github.com/WojciechMazur), Email: [wmazur@virtuslab.com](wmazur@virtuslab.com))|
-|Co-mentor                | TODO |
-
 | Title                   | Incremental Optimization of Scala Native IR |
 |-------------------------|-----------------------------------------------|
 |Link to Project          | [Scala Native](https://scala-native.org/) |
