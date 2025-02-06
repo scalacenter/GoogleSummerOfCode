@@ -73,7 +73,7 @@ However, here are some rules that we'd like to emphasize since they are not visi
 | Expected Time Commitment | Large project - 350 hours                                                                                                                                                                          |
 | Spoken Language          | English                                                                                                                                                                                            |
 | Mentor                   | Voytek Pituła (GitHub: [@Krever](https://github.com/Krever), Email: [w.pitula@gmail.com](mailto:w.pitula@gmail.com))                                                                               |
-| Co-mentor                | -                                                                                                                                                                                                  |
+| Co-mentor                | Dave Smith (Github: [@davesmith00000](https://github.com/davesmith00000), Email: [david.smith@purplekingdomgames.com](mailto:david.smith@purplekingdomgames.com))                                  |
 
 ### Business4s: ChatOps4s Prototype
 
