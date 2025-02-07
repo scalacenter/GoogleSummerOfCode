@@ -120,6 +120,21 @@ However, here are some rules that we'd like to emphasize since they are not visi
 |Co-mentor               | Rory Graves ([LinkedIn](https://www.linkedin.com/in/roryjgraves/), Email: [rory.graves@fieldmark.co.uk](mailto:rory.graves@fieldmark.co.uk)) |
 
 
+### Play Framework Support in Metals
+
+| Title                    | Play Framework Support in Metals                                                                                              |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| Link to Project          | https://github.com/scalameta/metals-feature-requests/issues/50 https://github.com/scalameta/metals-feature-requests/issues/89 |
+| Brief Description        | Add support for Play Framework specific files in Metals language server                                                       |
+| Expected Outcome         | Working code and documentation.                                                                                               |
+| Prerequisites            | Intermediate Scala knowledge and basic HTML knowledge.                                                                        |
+| Ideal Prerequisites      | An understanding of parsing and language server protocol.                                                                     |
+| Expected Difficulty      | Medium – some design decisions need to be made and the implementation is not straightforward.                                 |
+| Expected Time Commitment | Medium project – 175 hours                                                                                                    |
+| Mentor                   | Tomasz Godzik (GitHub: [@tgodzik](https://github.com/tgodzik), Email: [tomek.godzik@gmail.com](mailto:tomek.godzik@gmail.com))|
+| Co-mentor                |                                                                                                                               |
+
+
 ### Typelevel Projects
 
 For project ideas relating to the Typelevel ecosystem in the categories of AI/ML, serverless, data streaming, observability, and systems programming, please visit https://typelevel.org/gsoc/ideas/.
