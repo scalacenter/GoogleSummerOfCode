@@ -197,6 +197,32 @@ However, here are some rules that we'd like to emphasize since they are not visi
 |Mentor                  | Kannupriya Kalra ([LinkedIn](https://www.linkedin.com/in/kannupriyakalra/), Email: [kannupriyakalra@gmail.com](mailto:kannupriyakalra@gmail.com)) |
 |Co-mentor               | Rory Graves ([LinkedIn](https://www.linkedin.com/in/roryjgraves/), Email: [rory.graves@fieldmark.co.uk](mailto:rory.graves@fieldmark.co.uk)) |
 
+### Difflicious UI
+
+| Title                    | Difflicious UI                                                                                                                                                                                                           |
+|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Link to Project          | https://github.com/jatcwang/difflicious                                                                                                                                                                                  |
+| Brief Description        | Implement a Web UI for Difflicious which allows users to explore diffs (test failures) reported by Difflicious. The UI should allow the user to expand and minimize section of the diff output in an interactive manner. |
+| Expected Outcome         | Working UI and documentation                                                                                                                                                                                             |
+| Prerequisites            | Good working knowledge of Scala and web technologies (Javascript, CSS, HTML). The project will be implemented in Scala.js (most likely with [Laminar](https://laminar.dev/)                                              |
+| Expected Difficulty      | Hard                                                                                                                                                                                                                     |
+| Expected Time Commitment | Large project - 350 hours                                                                                                                                                                                                |
+| Spoken Language          | English                                                                                                                                                                                                                  |
+| Mentor                   | Jacob Wang (GitHub: [@jatcwang](https://github.com/jatcwang), Email: [jatcwang@gmail.com](mailto:jatcwang@gmail.com))                                                                                                    |
+
+### Difflicious: Differ for Json type
+
+| Title                    | Difflicious: Differ for Json type                                                                                                                                                                                            |
+|--------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Link to Project          | https://github.com/jatcwang/difflicious                                                                                                                                                                                      |
+| Brief Description        | Implement a differ which supports JSON types from popular Scala libraries (e.g. [Circe](https://github.com/circe/circe)). The current sealed trait Differ will be completely reworked to support any general disjoint union. |
+| Expected Outcome         | A differ that can diff two two `io.circe.Json` values                                                                                                                                                                        |
+| Prerequisites            | Good working knowledge of Scala                                                                                                                                                                                              |
+| Expected Difficulty      | Hard                                                                                                                                                                                                                         |
+| Expected Time Commitment | Medium project - 175 hours                                                                                                                                                                                                   |
+| Spoken Language          | English                                                                                                                                                                                                                      |
+| Mentor                   | Jacob Wang (GitHub: [@jatcwang](https://github.com/jatcwang), Email: [jatcwang@gmail.com](mailto:jatcwang@gmail.com))                                                                                                        |                                                                                                     |
+
 ### Template
 
 |Title                   | |
