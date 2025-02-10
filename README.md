@@ -180,10 +180,11 @@ However, here are some rules that we'd like to emphasize since they are not visi
 |Brief Description        | This project aims to implement a benchmarking framework similar to JMH (Java Microbenchmark Harness)  allowing for accurate and reliable performance measurements on non JVM platforms. Both Scala Native and Scala.js cannot consume a modified JVM bytecode emitted by JMH framework. The goal is to create a runtime implementation for executing microbenchmarks and a Scala compiler plugin performing required transformations of Scala.js / Scala Native code based on JMH framework compiletime annotations. |
 |Expected Outcome         | A benchmarking framework that mimics JMH APIs and produces reliable results for Scala Native and Scala.js. Demonstration benchmarks showcasing usage. |
 |Prerequisites            | Good understanding of benchmarking principles, Scala Native, Scala.js, and Scala compiler plugins. Some knowledge of JMH is beneficial. |
-|Expected Difficulty      | Medium |
+|Expected Difficulty      | Hard |
 |Expected Time Commitment | Medium project - 175 hours |
 |Mentor                   | Wojciech Mazur (GitHub: [@WojciechMazur](https://github.com/WojciechMazur), Email: [wmazur@virtuslab.com](mailto:wmazur@virtuslab.com) )|
 |Co-mentor                | Sébastien Doeraene (GitHub: [@sjrd](https://github.com/sjrd), Email: [sjrdoeraene@gmail.com](mailto:sjrdoeraene@gmail.com) ) |
+
 ### Scala Native Projects
 
 | Title                   | Incremental Optimization of Scala Native IR |
