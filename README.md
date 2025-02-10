@@ -131,6 +131,43 @@ However, here are some rules that we'd like to emphasize since they are not visi
 |Mentor                  | Szymon Rodziewicz ([LinkedIn](https://www.linkedin.com/in/szymon-r-04951895/), Github: [szymon-rd](https://github.com/szymon-rd), Email: [szymonrodant@gmail.com](mailto:szymonrodant@gmail.com)) |
 |Co-mentor               | - |
 
+### Scala Native / Scala.js Projects
+
+| Title                   | Scala Bazel Rules for Scala.js and Scala Native |
+|-------------------------|------------------------------------------------|
+|Link to Project          | https://github.com/bazelbuild/rules_scala |
+|Brief Description        | This project aims to develop Bazel build rules for Scala.js and Scala Native, enabling efficient and reproducible builds for both platforms. The project will provide first-class support for Scala projects within the Bazel ecosystem, improving integration and developer experience. |
+|Expected Outcome         | Functional and well-documented Bazel rules that allow compiling, testing, and packaging Scala.js and Scala Native projects. Demonstration projects showcasing usage. |
+|Prerequisites            | Experience with Scala, build tools (SBT, Bazel), and Scala.js/Scala Native basics. Some familiarity with Bazel rule definitions is a plus. |
+|Expected Difficulty      | Medium |
+|Expected Time Commitment | Large project - 350 hours |
+|Mentor                   | Wojciech Mazur (GitHub: [@WojciechMazur](https://github.com/WojciechMazur), Email: [wmazur@virtuslab.com](wmazur@virtuslab.com))|
+|Co-mentor                | TODO |
+
+| Title                   | JMH-Compliant Benchmarking Framework for Scala Native & Scala.js |
+|-------------------------|-------------------------------------------------------------|
+|Link to Project          | [Scala Native](https://scala-native.org/) / [Scala.js](https://www.scala-js.org/) |
+|Brief Description        | This project aims to implement a benchmarking framework similar to JMH (Java Microbenchmark Harness)  allowing for accurate and reliable performance measurements on non JVM platforms. Both Scala Native and Scala.js cannot consume a modified JVM bytecode emitted by JMH framework. The goal is to create a runtime implementation for executing microbenchmarks and a Scala compiler plugin performing required transformations of Scala.js / Scala Native code based on JMH framework compiletime annotations. |
+|Expected Outcome         | A benchmarking framework that mimics JMH APIs and produces reliable results for Scala Native and Scala.js. Demonstration benchmarks showcasing usage. |
+|Prerequisites            | Good understanding of benchmarking principles, Scala Native, Scala.js, and Scala compiler plugins. Some knowledge of JMH is beneficial. |
+|Expected Difficulty      | Hard |
+|Expected Time Commitment | Medium project - 175 hours |
+|Mentor                   | Wojciech Mazur (GitHub: [@WojciechMazur](https://github.com/WojciechMazur), Email: [wmazur@virtuslab.com](mailto:wmazur@virtuslab.com) )|
+|Co-mentor                | Sébastien Doeraene (GitHub: [@sjrd](https://github.com/sjrd), Email: [sjrdoeraene@gmail.com](mailto:sjrdoeraene@gmail.com) ) |
+
+### Scala Native Projects
+
+| Title                   | Incremental Optimization of Scala Native IR |
+|-------------------------|-----------------------------------------------|
+|Link to Project          | [Scala Native](https://scala-native.org/) |
+|Brief Description        | This project aims to implement incremental optimization for Scala Native’s Intermediate Representation (IR), improving compilation speed by reusing results from previous compilation runs instead of optimizing the entire program from scratch. |
+|Expected Outcome         | A working prototype of an incremental optimization pipeline for Scala Native IR, with measurable speedups over full optimizations. |
+|Prerequisites            | Strong understanding of compilers, Scala Native IR, and optimization techniques. Knowledge of LLVM and incremental compilation strategies is a plus. |
+|Expected Difficulty      | Hard |
+|Expected Time Commitment | Large project - 350 hours |
+|Mentor                   | Wojciech Mazur (GitHub: [@WojciechMazur](https://github.com/WojciechMazur), Email: [wmazur@virtuslab.com](mailto:wmazur@virtuslab.com) )|
+|Co-mentor                | Sébastien Doeraene (GitHub: [@sjrd](https://github.com/sjrd), Email: [sjrdoeraene@gmail.com](mailto:sjrdoeraene@gmail.com) ) |
+
 ### Scaladex: Support for Compiler Plugins
 
 | Title                   | Scaladex: Support for Compiler Plugins |
