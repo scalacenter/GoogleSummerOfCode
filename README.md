@@ -131,36 +131,6 @@ However, here are some rules that we'd like to emphasize since they are not visi
 |Mentor                  | Szymon Rodziewicz ([LinkedIn](https://www.linkedin.com/in/szymon-r-04951895/), Github: [szymon-rd](https://github.com/szymon-rd), Email: [szymonrodant@gmail.com](mailto:szymonrodant@gmail.com)) |
 |Co-mentor               | - |
 
-### Scaladex: Support for Compiler Plugins
-
-| Title                   | Scaladex: Support for Compiler Plugins |
-| ----------------------- | -------------------------------- |
-| Link to Project         | https://github.com/scalacenter/scaladex/ |
-| Brief Description       | Add support for compiler plugins in Scaladex, the index website of open source Scala artifacts. Adapt the UI of the front page, search page and project page to allow searching, and browsing compiler plugins and their versions. See full description in [scalacenter/scaladex#865](https://github.com/scalacenter/scaladex/issues/865) |
-| Expected Outcome        | Scaladex should index compiler plugin artifacts, such as [org.typelevel:kind-projector_2.13.16:0.13.3](https://repo1.maven.org/maven2/org/typelevel/kind-projector_2.13.16/0.13.3/). It should show them as a separate platform on the front page, search page and project page. |
-| Prerequisites           | Some experience with Scala and SQL. Good knowledge about HTML and css |
-| Ideal Prerequisites     | Some knowledge of the Scala ecosystem, such as Scala platforms and binary versions |
-| Expected Difficulty     | Medium |
-| Expected Time Commitment| Medium project - 175 hours |
-| Spoken Language         | English |
-| Mentor                  | Kannupriya Kalra ([LinkedIn](https://www.linkedin.com/in/kannupriyakalra/), Email: [kannupriyakalra@gmail.com](mailto:kannupriyakalra@gmail.com)) |
-| Co-mentor               | Adrien Piquerez (GitHub: [@adpi2](https://github.com/adpi2), Email: [adrien.piquerez@gmail.com](mailto:adrien.piquerez@gmail.com)) |
-
-### LLM4S - Implement an agentic toolkit for Large Language Models
-
-|Title                   |                                   |
-|------------------------|------------------------------------------|
-|Link to Project         | https://github.com/rorygraves/llm4s                                        |
-|Brief Description       | LLM4S is creating a Large Language Model (LLM) toolkit for Scala.  This project uses the power of Scala to make building LLM based applications easier.  LLMs can be used in an agentic style where the LLM is allowed to call provided tools to access resources (such as reading a webpage, or calling an API service to perform a task).  The goal of this project is to create a standard toolkit that developers can use when building agentic agents. |
-|Expected Outcome        | LLM4S should have a useful set of tools integrated for LLM use, such as file or web browser tools to be used by applications built with LLM4S. |
-|Prerequisites           | Some exerience of Scala and LLMs. |
-|Expected Difficulty     | Medium  |
-|Expected Time Commitment| Medium project - 175 hours |
-|Spoken Language         | English |
-|Mentor                  | Kannupriya Kalra ([LinkedIn](https://www.linkedin.com/in/kannupriyakalra/), Email: [kannupriyakalra@gmail.com](mailto:kannupriyakalra@gmail.com)) |
-|Co-mentor               | Rory Graves ([LinkedIn](https://www.linkedin.com/in/roryjgraves/), Email: [rory.graves@fieldmark.co.uk](mailto:rory.graves@fieldmark.co.uk)) |
-
-
 ### Scala Native / Scala.js Projects
 
 | Title                   | Scala Bazel Rules for Scala.js and Scala Native |
@@ -198,6 +168,34 @@ However, here are some rules that we'd like to emphasize since they are not visi
 |Mentor                   | Wojciech Mazur (GitHub: [@WojciechMazur](https://github.com/WojciechMazur), Email: [wmazur@virtuslab.com](mailto:wmazur@virtuslab.com) )|
 |Co-mentor                | Sébastien Doeraene (GitHub: [@sjrd](https://github.com/sjrd), Email: [sjrdoeraene@gmail.com](mailto:sjrdoeraene@gmail.com) ) |
 
+### Scaladex: Support for Compiler Plugins
+
+| Title                   | Scaladex: Support for Compiler Plugins |
+| ----------------------- | -------------------------------- |
+| Link to Project         | https://github.com/scalacenter/scaladex/ |
+| Brief Description       | Add support for compiler plugins in Scaladex, the index website of open source Scala artifacts. Adapt the UI of the front page, search page and project page to allow searching, and browsing compiler plugins and their versions. See full description in [scalacenter/scaladex#865](https://github.com/scalacenter/scaladex/issues/865) |
+| Expected Outcome        | Scaladex should index compiler plugin artifacts, such as [org.typelevel:kind-projector_2.13.16:0.13.3](https://repo1.maven.org/maven2/org/typelevel/kind-projector_2.13.16/0.13.3/). It should show them as a separate platform on the front page, search page and project page. |
+| Prerequisites           | Some experience with Scala and SQL. Good knowledge about HTML and css |
+| Ideal Prerequisites     | Some knowledge of the Scala ecosystem, such as Scala platforms and binary versions |
+| Expected Difficulty     | Medium |
+| Expected Time Commitment| Medium project - 175 hours |
+| Spoken Language         | English |
+| Mentor                  | Kannupriya Kalra ([LinkedIn](https://www.linkedin.com/in/kannupriyakalra/), Email: [kannupriyakalra@gmail.com](mailto:kannupriyakalra@gmail.com)) |
+| Co-mentor               | Adrien Piquerez (GitHub: [@adpi2](https://github.com/adpi2), Email: [adrien.piquerez@gmail.com](mailto:adrien.piquerez@gmail.com)) |
+
+### LLM4S - Implement an agentic toolkit for Large Language Models
+
+|Title                   |                                   |
+|------------------------|------------------------------------------|
+|Link to Project         | https://github.com/rorygraves/llm4s                                        |
+|Brief Description       | LLM4S is creating a Large Language Model (LLM) toolkit for Scala.  This project uses the power of Scala to make building LLM based applications easier.  LLMs can be used in an agentic style where the LLM is allowed to call provided tools to access resources (such as reading a webpage, or calling an API service to perform a task).  The goal of this project is to create a standard toolkit that developers can use when building agentic agents. |
+|Expected Outcome        | LLM4S should have a useful set of tools integrated for LLM use, such as file or web browser tools to be used by applications built with LLM4S. |
+|Prerequisites           | Some exerience of Scala and LLMs. |
+|Expected Difficulty     | Medium  |
+|Expected Time Commitment| Medium project - 175 hours |
+|Spoken Language         | English |
+|Mentor                  | Kannupriya Kalra ([LinkedIn](https://www.linkedin.com/in/kannupriyakalra/), Email: [kannupriyakalra@gmail.com](mailto:kannupriyakalra@gmail.com)) |
+|Co-mentor               | Rory Graves ([LinkedIn](https://www.linkedin.com/in/roryjgraves/), Email: [rory.graves@fieldmark.co.uk](mailto:rory.graves@fieldmark.co.uk)) |
 
 ### Template
 
