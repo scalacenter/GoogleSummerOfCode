@@ -197,6 +197,21 @@ However, here are some rules that we'd like to emphasize since they are not visi
 |Mentor                  | Kannupriya Kalra ([LinkedIn](https://www.linkedin.com/in/kannupriyakalra/), Email: [kannupriyakalra@gmail.com](mailto:kannupriyakalra@gmail.com)) |
 |Co-mentor               | Rory Graves ([LinkedIn](https://www.linkedin.com/in/roryjgraves/), Email: [rory.graves@fieldmark.co.uk](mailto:rory.graves@fieldmark.co.uk)) |
 
+### A Pandas Experience
+
+|Title                   | One line CSV import in scala |
+|------------------------|--------------------------------|
+|Link to Project         |https://github.com/Quafadas/scautable |
+|Brief Description       |Python through Pandas has a great data import experience. This project aims to replicate parts of that by parsing parts of the datasource _at compile time_, i.e. bringing knowledge of the structure of your datasource inside the compilers knowledge. It's goal is to help you _discover_ your data, rather than force to you to write it out in advance. It's target audience will be writing non production, data sciency type scripts. Many of the motivating examples come from kaggle.com|
+|Expected Outcome        |Can be measured in the increased number of successful test cases. I believe the "fundamental" idea has legs, but is currently limited to a small number of scenarios explored in my free time. The goal of the project is to expand the set of scenarios in which it is useful. The first "easy" issues surround details such as correctly parsing headers, checking special characters, improving error messages and writing data back to (e.g. CSV). From there it should be possible to graduate to adding more datasources, for example SQL (hopefully simple - or harder, for example exploring apache parquet.) Stretch goals could include exploring strategies for streaming statistics, deriving visualisations, critiquing the design vs e.g. Kantan.csv, and / or attempting to help the consumer identify the "types" of the data at compile time. |
+|Prerequisites           |Basic scala / java knowledge. The barrier to "getting started" ought to be rather low. The initial issues are largely detail driven rather than design driven. Basic experience with testing (munit), CI (GHA) and scala standard library would be enough to contribute. |
+|Expected Difficulty     |Easy|
+|Expected Time Commitment|Medium project - 175 hours|
+|Spoken Language         |English|
+|Mentor                  |Simon Parten (GitHub: [@quafadas](https://github.com/foo), Email: [quafadas@gmail.com](mailto:quafadas@gmail.com))|
+|Co-mentor               |Volunteers wanted here too I guess :-)|
+
+
 ### Template
 
 |Title                   | |
