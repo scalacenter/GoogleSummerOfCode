@@ -89,6 +89,33 @@ However, here are some rules that we'd like to emphasize since they are not visi
 | Mentor                   | Voytek Pituła (GitHub: [@Krever](https://github.com/Krever), Email: [w.pitula@gmail.com](mailto:w.pitula@gmail.com))                                      |
 | Co-mentor                | -                                                                                                                                                         |
 
+### Cyfra: Support for basic GPU computations on data streams with fs2 integration
+
+|Title                   |                                   |
+|------------------------|------------------------------------------|
+|Link to Project         | https://github.com/ComputeNode/cyfra                                     |
+|Brief Description       | Cyfra is a GPU runtime and a DSL that makes Scala a viable choice for GPU programming. Goal of the project is to implement support for GPU computations on data streams with focus on usability.  |
+|Expected Outcome        | Cyfra should enable developers that do not have background in GPU programming to write a simple data processing pipeline in Cyfra that performs compute on GPU and efficiently manages memory. The pipeline should be interoperable with fs2. |
+|Prerequisites           | Some experience with Scala, and interest to learn a bit about GPUs. |
+|Expected Difficulty     | Medium  |
+|Expected Time Commitment| Medium project - 175 hours |
+|Spoken Language         | English |
+|Mentor                  | Szymon Rodziewicz ([LinkedIn](https://www.linkedin.com/in/szymon-r-04951895/), Github: [szymon-rd](https://github.com/szymon-rd), Email: [szymonrodant@gmail.com](mailto:szymonrodant@gmail.com)) |
+|Co-mentor               | - |
+
+### Cyfra: Real-time rendering pipeline
+
+|Title                   |                                   |
+|------------------------|------------------------------------------|
+|Link to Project         | https://github.com/ComputeNode/cyfra                                     |
+|Brief Description       | Cyfra is a GPU runtime and a DSL that makes Scala a viable choice for GPU programming. Goal of the project is to implement a basic real-time Vulkan rendering pipeline.  |
+|Expected Outcome        | Cyfra should enable developers to create programs that will render scenes from a basic one-step Vulkan pipeline in real time. It should support rendering to a window, a data stream, and a file. |
+|Prerequisites           | No Scala experience is required, but basic experience with GPU programming would be helpful. |
+|Expected Difficulty     | Medium  |
+|Expected Time Commitment| Medium project - 175 hours |
+|Spoken Language         | English |
+|Mentor                  | Szymon Rodziewicz ([LinkedIn](https://www.linkedin.com/in/szymon-r-04951895/), Github: [szymon-rd](https://github.com/szymon-rd), Email: [szymonrodant@gmail.com](mailto:szymonrodant@gmail.com)) |
+|Co-mentor               | - |
 
 ### Scaladex: Support for Compiler Plugins
 
@@ -118,7 +145,6 @@ However, here are some rules that we'd like to emphasize since they are not visi
 |Spoken Language         | English |
 |Mentor                  | Kannupriya Kalra ([LinkedIn](https://www.linkedin.com/in/kannupriyakalra/), Email: [kannupriyakalra@gmail.com](mailto:kannupriyakalra@gmail.com)) |
 |Co-mentor               | Rory Graves ([LinkedIn](https://www.linkedin.com/in/roryjgraves/), Email: [rory.graves@fieldmark.co.uk](mailto:rory.graves@fieldmark.co.uk)) |
-
 
 ### Typelevel Projects
 
