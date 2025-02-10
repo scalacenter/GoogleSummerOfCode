@@ -89,6 +89,19 @@ However, here are some rules that we'd like to emphasize since they are not visi
 | Mentor                   | Voytek Pituła (GitHub: [@Krever](https://github.com/Krever), Email: [w.pitula@gmail.com](mailto:w.pitula@gmail.com))                                      |
 | Co-mentor                | -                                                                                                                                                         |
 
+### Play Framework Support in Metals
+
+| Title                    | Play Framework Support in Metals                                                                                              |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| Link to Project          | https://github.com/scalameta/metals-feature-requests/issues/50 https://github.com/scalameta/metals-feature-requests/issues/89 |
+| Brief Description        | Add support for Play Framework specific files in Metals language server                                                       |
+| Expected Outcome         | Working code and documentation.                                                                                               |
+| Prerequisites            | Intermediate Scala knowledge and basic HTML knowledge.                                                                        |
+| Ideal Prerequisites      | An understanding of parsing and language server protocol.                                                                     |
+| Expected Difficulty      | Medium – some design decisions need to be made and the implementation is not straightforward.                                 |
+| Expected Time Commitment | Medium project – 175 hours                                                                                                    |
+| Mentor                   | Tomasz Godzik (GitHub: [@tgodzik](https://github.com/tgodzik), Email: [tomek.godzik@gmail.com](mailto:tomek.godzik@gmail.com))|
+| Co-mentor                |                                                                                                                               |
 
 ### Scaladex: Support for Compiler Plugins
 
@@ -118,21 +131,6 @@ However, here are some rules that we'd like to emphasize since they are not visi
 |Spoken Language         | English |
 |Mentor                  | Kannupriya Kalra ([LinkedIn](https://www.linkedin.com/in/kannupriyakalra/), Email: [kannupriyakalra@gmail.com](mailto:kannupriyakalra@gmail.com)) |
 |Co-mentor               | Rory Graves ([LinkedIn](https://www.linkedin.com/in/roryjgraves/), Email: [rory.graves@fieldmark.co.uk](mailto:rory.graves@fieldmark.co.uk)) |
-
-
-### Play Framework Support in Metals
-
-| Title                    | Play Framework Support in Metals                                                                                              |
-| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
-| Link to Project          | https://github.com/scalameta/metals-feature-requests/issues/50 https://github.com/scalameta/metals-feature-requests/issues/89 |
-| Brief Description        | Add support for Play Framework specific files in Metals language server                                                       |
-| Expected Outcome         | Working code and documentation.                                                                                               |
-| Prerequisites            | Intermediate Scala knowledge and basic HTML knowledge.                                                                        |
-| Ideal Prerequisites      | An understanding of parsing and language server protocol.                                                                     |
-| Expected Difficulty      | Medium – some design decisions need to be made and the implementation is not straightforward.                                 |
-| Expected Time Commitment | Medium project – 175 hours                                                                                                    |
-| Mentor                   | Tomasz Godzik (GitHub: [@tgodzik](https://github.com/tgodzik), Email: [tomek.godzik@gmail.com](mailto:tomek.godzik@gmail.com))|
-| Co-mentor                |                                                                                                                               |
 
 
 ### Typelevel Projects
