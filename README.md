@@ -89,6 +89,20 @@ However, here are some rules that we'd like to emphasize since they are not visi
 | Mentor                   | Voytek Pituła (GitHub: [@Krever](https://github.com/Krever), Email: [w.pitula@gmail.com](mailto:w.pitula@gmail.com))                                      |
 | Co-mentor                | -                                                                                                                                                         |
 
+### Play Framework Support in Metals
+
+| Title                    | Play Framework Support in Metals                                                                                              |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| Link to Project          | https://github.com/scalameta/metals-feature-requests/issues/50 https://github.com/scalameta/metals-feature-requests/issues/89 |
+| Brief Description        | Add support for Play Framework specific files in Metals language server                                                       |
+| Expected Outcome         | Working code and documentation.                                                                                               |
+| Prerequisites            | Intermediate Scala knowledge and basic HTML knowledge.                                                                        |
+| Ideal Prerequisites      | An understanding of parsing and language server protocol.                                                                     |
+| Expected Difficulty      | Medium – some design decisions need to be made and the implementation is not straightforward.                                 |
+| Expected Time Commitment | Medium project – 175 hours                                                                                                    |
+| Mentor                   | Tomasz Godzik (GitHub: [@tgodzik](https://github.com/tgodzik), Email: [tomek.godzik@gmail.com](mailto:tomek.godzik@gmail.com))|
+| Co-mentor                |                                                                                                                               |
+
 ### Cyfra: Support for basic GPU computations on data streams with fs2 integration
 
 |Title                   |                                   |
