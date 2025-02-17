@@ -237,6 +237,22 @@ However, here are some rules that we'd like to emphasize since they are not visi
 |Mentor                  | Kannupriya Kalra ([LinkedIn](https://www.linkedin.com/in/kannupriyakalra/), Email: [kannupriyakalra@gmail.com](mailto:kannupriyakalra@gmail.com)) |
 |Co-mentor               | Rory Graves ([LinkedIn](https://www.linkedin.com/in/roryjgraves/), Email: [rory.graves@fieldmark.co.uk](mailto:rory.graves@fieldmark.co.uk)) |
 
+
+### Scalus (Compiler plugin for compiling Scala input Plutus smart-contract language) - implements a subset of the standard library.
+
+|Title                   |                                   |
+|------------------------|------------------------------------------|
+|Link to Project         | https://github.com/nau/scalus            |
+|Brief Description | Currently, Scalus provides only a basic prelude.  If would be good map scala Option and List classes to scalus MayBe and scalus.Prelude.list and implement basic functions lile map, fold. etc.. |
+|Expected Outcome        | Ability for developers to reuse knowledge about Scala standard library when writing Plutus Smart Contracts |
+|Prerequisites           | Some experience with Scala, basic understanding of compiler theory (know - what AST is) and blockchain technology (know what is UTXO) |
+|Expected Difficulty     | Medium  |
+|Expected Time Commitment| Medium project - 175 hours |
+|Spoken Language         | English |
+|Mentor                  | Alex Nemish ([Github](https://github.com/nau), Email: anemish@gmail.com |
+|Co-mentor               | Ruslan Shevchenko.  [Github](https://github.com/rssh) Email: <ruslan@shevchenko.kiev.ua> |
+
+
 ### Template
 
 |Title                   | |
