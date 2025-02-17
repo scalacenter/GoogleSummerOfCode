@@ -249,7 +249,7 @@ However, here are some rules that we'd like to emphasize since they are not visi
 |Expected Difficulty     | Medium  |
 |Expected Time Commitment| Medium project - 175 hours |
 |Spoken Language         | English |
-|Mentor                  | Alex Nemish ([Github](https://github.com/nau), Email: anemish@gmail.com |
+|Mentor                  | Alex Nemish [Github](https://github.com/nau), Email: anemish@gmail.com |
 |Co-mentor               | Ruslan Shevchenko.  [Github](https://github.com/rssh) Email: <ruslan@shevchenko.kiev.ua> |
 
 
