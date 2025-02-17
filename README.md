@@ -238,14 +238,14 @@ However, here are some rules that we'd like to emphasize since they are not visi
 |Co-mentor               | Rory Graves ([LinkedIn](https://www.linkedin.com/in/roryjgraves/), Email: [rory.graves@fieldmark.co.uk](mailto:rory.graves@fieldmark.co.uk)) |
 
 
-### Scalus (Compiler plugin for compiling Scala input Plutus smart-contract language) - implements a subset of the standard library.
+### Scalus – Scala 3 compiler backend and DApps development platform for Cardano
 
 |Title                   |                                   |
 |------------------------|------------------------------------------|
 |Link to Project         | https://github.com/nau/scalus            |
-|Brief Description | Currently, Scalus provides only a basic prelude.  If would be good map scala Option and List classes to scalus MayBe and scalus.Prelude.list and implement basic functions lile map, fold. etc.. |
-|Expected Outcome        | Ability for developers to reuse knowledge about Scala standard library when writing Plutus Smart Contracts |
-|Prerequisites           | Some experience with Scala, basic understanding of compiler theory (know - what AST is) and blockchain technology (know what is UTXO) |
+|Brief Description       | Scalus is a platform for developing full-stacke decentralized applications (DApps) on the Cardano blockchain using a single language, Scala 3, tools and code for frontend, backend and smart contracts development. Scalus implements a Scala 3 compiler backend that compiles Scala to Cardano Plutus Core – a lambda calculus inspired smart contracts language. |
+|Expected Outcome        | Enable more Scala 3 features to be compiled to Plutus Core: arbitrary size Tuples, better pattern-matching conversion algorithm. Improvements in our code generator, and various lambda calculus optimizations: inliner, common subexpression eliminator etc. We also expect improvements in Scalus standard library, test coverage and documentations. |
+|Prerequisites           | Basic Scala knowledge. Basic understanding of compiler theory and blockchain technology is a plus. |
 |Expected Difficulty     | Medium  |
 |Expected Time Commitment| Medium project - 175 hours |
 |Spoken Language         | English |
