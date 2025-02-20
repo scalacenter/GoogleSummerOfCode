@@ -237,6 +237,22 @@ However, here are some rules that we'd like to emphasize since they are not visi
 |Mentor                  | Kannupriya Kalra ([LinkedIn](https://www.linkedin.com/in/kannupriyakalra/), Email: [kannupriyakalra@gmail.com](mailto:kannupriyakalra@gmail.com)) |
 |Co-mentor               | Rory Graves ([LinkedIn](https://www.linkedin.com/in/roryjgraves/), Email: [rory.graves@fieldmark.co.uk](mailto:rory.graves@fieldmark.co.uk)) |
 
+
+### Scalus – Scala 3 compiler backend and DApps development platform for Cardano
+
+|Title                   |                                   |
+|------------------------|------------------------------------------|
+|Link to Project         | https://github.com/nau/scalus            |
+|Brief Description       | Scalus is a platform for developing full-stacke decentralized applications (DApps) on the Cardano blockchain using a single language, Scala 3, tools and code for frontend, backend and smart contracts development. Scalus implements a Scala 3 compiler backend that compiles Scala to Cardano Plutus Core – a lambda calculus inspired smart contracts language. |
+|Expected Outcome        | Enable more Scala 3 features to be compiled to Plutus Core: arbitrary size Tuples, better pattern-matching conversion algorithm. Improvements in our code generator, and various lambda calculus optimizations: inliner, common subexpression eliminator etc. We also expect improvements in Scalus standard library, test coverage and documentations. |
+|Prerequisites           | Basic Scala knowledge. Basic understanding of compiler theory and blockchain technology is a plus. |
+|Expected Difficulty     | Medium  |
+|Expected Time Commitment| Medium project - 175 hours |
+|Spoken Language         | English |
+|Mentor                  | Alex Nemish [Github](https://github.com/nau), Email: anemish@gmail.com |
+|Co-mentor               | Ruslan Shevchenko.  [Github](https://github.com/rssh) Email: <ruslan@shevchenko.kiev.ua> |
+
+
 ### Template
 
 |Title                   | |
