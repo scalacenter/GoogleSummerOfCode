@@ -138,7 +138,7 @@ However, here are some rules that we'd like to emphasize since they are not visi
 |Link to Project         | https://github.com/ComputeNode/cyfra                                     |
 |Brief Description       | Cyfra is a GPU runtime and a DSL that makes Scala a viable choice for GPU programming. Goal of the project is to implement a real-time SDF (signed distance fields) editor as a VSCode extension.  |
 |Expected Outcome        | Cyfra vscode extension should be tool that would allow its users to render 3D SDF-based scenes and see changes in their code reflected in the output in real time. |
-|Prerequisites           | Some experience with Scala, and interest to learn a bit about GPUs. |
+|Prerequisites           | Some experience with Scala or TypeScript, and interest to learn a bit about GPUs, Scala, and VSCode extension development. |
 |Expected Difficulty     | Medium  |
 |Expected Time Commitment| Medium project - 175 hours |
 |Spoken Language         | English |
