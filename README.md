@@ -103,7 +103,7 @@ However, here are some rules that we'd like to emphasize since they are not visi
 |--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Link to Project          | To be created under https://github.com/business4s                                                                                                         |
 | Brief Description        | Extension of the library to handle MS Teams                                                                                                               |
-| Expected Outcome         | Integration with MS Teams that allows to get information int and out of it through ChatOps4s api.                                                         |
+| Expected Outcome         | Integration with MS Teams that allows to get information in and out of it through ChatOps4s api.                                                          |
 | Prerequisites            | Ability to research and consume external APIs. Basic exposure to some chat platform (Slack, Discord, MS Teams)                                            |
 | Expected Difficulty      | Medium                                                                                                                                                    |
 | Expected Time Commitment | Medium project - 175 hours                                                                                                                                |
