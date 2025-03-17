@@ -61,7 +61,7 @@ However, here are some rules that we'd like to emphasize since they are not visi
 | Mentor                   | Noel Welsh (GitHub: [@noelwelsh](https://github.com/noelwelsh), Email: [noel@noelwelsh.com](mailto:noel@noelwelsh.com)) |
 | Co-mentor                |                                                                                                                         |
 
-### Business4s: Workflows4s Web UI
+### Business4s Projects
 
 | Title                    | Workflows4s Web UI                                                                                                                                                                                 |
 |--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -75,8 +75,6 @@ However, here are some rules that we'd like to emphasize since they are not visi
 | Mentor                   | Voytek Pituła (GitHub: [@Krever](https://github.com/Krever), Email: [w.pitula@gmail.com](mailto:w.pitula@gmail.com))                                                                               |
 | Co-mentor                | Dave Smith (Github: [@davesmith00000](https://github.com/davesmith00000), Email: [david.smith@purplekingdomgames.com](mailto:david.smith@purplekingdomgames.com))                                  |
 
-### Business4s: ChatOps4s Prototype
-
 | Title                    | ChatOps4s Prototype                                                                                                                                       |
 |--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Link to Project          | To be created under https://github.com/business4s                                                                                                         |
@@ -88,6 +86,42 @@ However, here are some rules that we'd like to emphasize since they are not visi
 | Spoken Language          | English                                                                                                                                                   |
 | Mentor                   | Voytek Pituła (GitHub: [@Krever](https://github.com/Krever), Email: [w.pitula@gmail.com](mailto:w.pitula@gmail.com))                                      |
 | Co-mentor                | -                                                                                                                                                         |
+
+| Title                    | ChatOps4s Prototype - Discord Backend                                                                                                                                       |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Link to Project          | To be created under https://github.com/business4s                                                                                                         |
+| Brief Description        | Extension of the library to handle Discord                                                                                                                |
+| Expected Outcome         | Integration with Discord that allows to get information in and out of it through ChatOps4s api.                                                           |
+| Prerequisites            | Ability to research and consume external APIs. Basic exposure to some chat platform (Slack, Discord, MS Teams)                                            |
+| Expected Difficulty      | Medium                                                                                                                                                    |
+| Expected Time Commitment | Medium project - 175 hours                                                                                                                                |
+| Spoken Language          | English                                                                                                                                                   |
+| Mentor                   | Voytek Pituła (GitHub: [@Krever](https://github.com/Krever), Email: [w.pitula@gmail.com](mailto:w.pitula@gmail.com))                                      |
+| Co-mentor                | -         
+
+| Title                    | ChatOps4s Prototype - MS Teams Backend                                                                                                                                       |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Link to Project          | To be created under https://github.com/business4s                                                                                                         |
+| Brief Description        | Extension of the library to handle MS Teams                                                                                                               |
+| Expected Outcome         | Integration with MS Teams that allows to get information in and out of it through ChatOps4s api.                                                          |
+| Prerequisites            | Ability to research and consume external APIs. Basic exposure to some chat platform (Slack, Discord, MS Teams)                                            |
+| Expected Difficulty      | Medium                                                                                                                                                    |
+| Expected Time Commitment | Medium project - 175 hours                                                                                                                                |
+| Spoken Language          | English                                                                                                                                                   |
+| Mentor                   | Voytek Pituła (GitHub: [@Krever](https://github.com/Krever), Email: [w.pitula@gmail.com](mailto:w.pitula@gmail.com))                                      |
+| Co-mentor                | -                                                                                                                                                         |
+
+| Title                    | DomainDocs4s Exploration                                                                                                                                                              |
+|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Link to Project          | https://github.com/business4s/domainDocs4s                                                                                                                                          |
+| Brief Description        | Implement a library that allows to collect metadata and generate domain documentation based on Scala code                                                                                  |
+| Expected Outcome         | Ability to collect metadata into reusable format and generate at least a single documentation format (e.g. glossary of terms). Exploration of what other formats could be supported |
+| Prerequisites            | Basic Scala skills. Willingness to look into Scala AST. Basic understanding of DDD and general domain-driven mindset.                                                               |
+| Expected Difficulty      | Medium                                                                                                                                                                              |
+| Expected Time Commitment | Medium project - 175 hours                                                                                                                                                          |
+| Spoken Language          | English                                                                                                                                                                             |
+| Mentor                   | Voytek Pituła (GitHub: [@Krever](https://github.com/Krever), Email: [w.pitula@gmail.com](mailto:w.pitula@gmail.com))                                                                |
+| Co-mentor                | -                                                                                                                                                                                   |
 
 ### Play Framework Support in Metals
 
