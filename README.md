@@ -259,7 +259,7 @@ However, here are some rules that we'd like to emphasize since they are not visi
 
 ### A Pandas Experience
 
-|Title                   | One line CSV import in scala |
+|Title                   | A Pandas Experience |
 |------------------------|--------------------------------|
 |Link to Project         |https://github.com/Quafadas/scautable |
 |Brief Description       |Python through Pandas has a great data import experience. This project aims to replicate parts of that by parsing parts of the datasource _at compile time_, i.e. bringing knowledge of the structure and headers of your datasource inside the compilers knowledge. It's goal is to help you _discover_ your data, rather than force to you to write out it's metadata in advance. It's target audience will be writing non production, data sciency type scripts. Many of the motivating examples come from kaggle.com|
