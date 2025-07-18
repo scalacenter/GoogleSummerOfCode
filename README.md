@@ -372,3 +372,14 @@ However, here are some rules that we'd like to emphasize since they are not visi
 |Mentor                  |FirstName LastName (GitHub: [@foo](https://github.com/foo), Email: [foo@gmail.com](mailto:foo@gmail.com))|
 |Co-mentor               |FirstName LastName (GitHub: [@foo](https://github.com/foo), Email: [foo@gmail.com](mailto:foo@gmail.com))|
 
+
+-----
+
+## Maintainers
+
+Want to connect with maintainers? The Google Summer Of Code(GSoC) program is maintained by:
+
+- **Scala Center Team** – Join us on [Discord](https://discord.gg/afRW3cGpwP) for general questions and community support.
+- **GSoC Org Admin – Kannupriya Kalra** – [LinkedIn](https://www.linkedin.com/in/kannupriyakalra/) | Email: [kannupriyakalra@gmail.com](mailto:kannupriyakalra@gmail.com) | Discord: `kannupriyakalra_46520`
+
+
