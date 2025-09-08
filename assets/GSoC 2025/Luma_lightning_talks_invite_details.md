@@ -107,7 +107,7 @@ No. While many contributors are part of GSoC, the event is open to everyone in t
 **4. Is there a fee?**
 Nope! 100% open source learning and sharing.
 
-**5. What are the projects for GSoC 2026?**Projects will be announced in **February 2026**. Until then, join the community servers to explore ideas, connect with mentors, and get an early advantage as an aspirant:
+**5. What are the projects for GSoC 2026?** Projects will be announced in **February 2026**. Until then, join the community servers to explore ideas, connect with mentors, and get an early advantage as an aspirant:
 
 - [LLM4S GSoC 2026 Discord](https://discord.gg/rZn5Et9592)
 - [Scala Center Discord](https://discord.gg/p6xQhpdzPt)
@@ -126,7 +126,7 @@ Check out this detailed guide from Org Admin Kannupriya Kalra:
 Google Summer of Code (GSoC) is a global program where contributors work on open source projects with mentorship, funded by Google. It’s an opportunity to gain real-world experience, learn from experts, and create lasting impact.
 🎥 New to GSoC or Scala? Watch this talk: [Recording Here](https://lnkd.in/e_dM57bZ)
 
-**9. How do I become a mentor?**Contribute to the ecosystem and help new contributors!
+**9. How do I become a mentor?** Contribute to the ecosystem and help new contributors!
 
 - Experienced Mentors: Add your idea directly to the Scala GSoC ideas list.
 - First-time Mentors: Share your idea and email **scala-gsoc@epfl.ch** for guidance on getting started.
@@ -134,3 +134,4 @@ Google Summer of Code (GSoC) is a global program where contributors work on open
 ---
 
 ⚡ #scala #gsoc #gsoc2025 #opensource #community #lightningtalks #mentorship
+
